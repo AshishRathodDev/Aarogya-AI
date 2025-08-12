@@ -1,0 +1,4 @@
+test_name,result,flag,biological_ref_interval,unit,age,sex,source_file
+Bilirubin Direct,2.60,lHhL,N/A,mg/dL,21,Female,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+Total Protein,11.50,lHhL,70 - 8,g/dL,21,Female,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+Globulin,7.00,llHhL,00- 3,g/dL,21,Female,dab0ecaa3094e050eefc8ec711bc4b42.jpg

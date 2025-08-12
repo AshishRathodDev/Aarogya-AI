@@ -1,0 +1,16 @@
+# Core Data Handling
+pandas
+numpy
+
+
+# PDF and Image Processing (OCR)
+PyMuPDF
+pytesseract
+Pillow
+
+# ML and Data Science Libraries
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+tensorflow-metal
