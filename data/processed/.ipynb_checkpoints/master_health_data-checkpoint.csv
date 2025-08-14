@@ -1,0 +1,24 @@
+test_name,result,flag,biological_ref_interval,unit,age,sex,source_file
+Total Cholesterol,150.0,hllllLh,N/A,mg/dL,21,Female,070a0bf186108bfd43470afab9738e32.jpg
+Triglycerides,100.0,llLh,N/A,mg/dL,21,Female,070a0bf186108bfd43470afab9738e32.jpg
+Total Cholesterol,50.0,HLhlllLll,N/A,mg/dL,21,Female,070a0bf186108bfd43470afab9738e32.jpg
+Total Cholesterol,80.0,LLhlllLll,N/A,mg/dL,21,Female,070a0bf186108bfd43470afab9738e32.jpg
+Total Cholesterol,20.0,LLhlllLll,N/A,mg/dL,21,Female,070a0bf186108bfd43470afab9738e32.jpg
+Total Cholesterol,100.0,HLhlllLll,N/A,mg/dL,21,Female,070a0bf186108bfd43470afab9738e32.jpg
+Total Cholesterol,2.0,hlhlhhlhhhlhll,N/A,N/A,21,Female,070a0bf186108bfd43470afab9738e32.jpg
+Total Cholesterol,3.3,hllHL,30 - 4,Ratio,,,WM115.pdf
+Total Cholesterol,1.0,llhlllHLLLhlllllLLHLlh,N/A,N/A,,,WM115.pdf
+LDL Cholesterol,2.0,lllLLHLlhh,N/A,N/A,,,WM115.pdf
+LDL Cholesterol,110.0,hlLLLLLLLLllllLLl,N/A,mg/dl,,,WM115.pdf
+LDL Cholesterol,110.0,llllLLllhhLL,N/A,mg/dl,,,WM115.pdf
+Total Cholesterol,100.0,hlll,N/A,%,,,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Triglycerides,95.0,lHhll,N/A,%,,,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Total Cholesterol,63.0,HhllLLhll,N/A,N/A,,,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Total Cholesterol,18.0,LLhllLLhll,N/A,%,,,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Total Cholesterol,19.0,LLhllL,N/A,%,,,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Total Cholesterol,104.0,LLHLL,N/A,N/A,,,128441_HC873738_LR.pdf
+VLDL Cholesterol,21.0,LLLL,N/A,N/A,,,128441_HC873738_LR.pdf
+Triglycerides,104.0,L,N/A,N/A,,,128441_HC873738_LR.pdf
+Total Cholesterol,189.0,hllh,N/A,N/A,,,sterling-accuris-pathology-sample-report-unlocked.pdf
+Total Cholesterol/HDL Ratio,5.0,HLHL,N/A,Ratio,,,sterling-accuris-pathology-sample-report-unlocked.pdf
+LDL Cholesterol,3.5,LLHL,N/A,Ratio,,,sterling-accuris-pathology-sample-report-unlocked.pdf

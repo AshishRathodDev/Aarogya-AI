@@ -16,3 +16,6 @@ __pycache__/
 # Environment variables
 .env
 *.env
+
+# Credentials / Secret Files
+*-*.json
