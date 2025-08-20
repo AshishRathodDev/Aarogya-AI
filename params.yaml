@@ -1,0 +1,33 @@
+# Settings for Regex Parser (The Guard)
+# NOTE: Yeh patterns sirf example hain, hum inhein baad mein improve kar sakte hain.
+regex_patterns:
+  Total Cholesterol: \b(Total\s*Cholesterol)\b.*?(\d+\.?\d*)\s*(mg/dL)?
+  Triglycerides: \b(Triglycerides)\b.*?(\d+\.?\d*)\s*(mg/dL)?
+  HDL Cholesterol: \b(HDL\s*Cholesterol)\b.*?(\d+\.?\d*)\s*(mg/dL)?
+  LDL Cholesterol: \b(LDL\s*Cholesterol)\b.*?(\d+\.?\d*)\s*(mg/dL)?
+  VLDL Cholesterol: \b(VLDL\s*Cholesterol)\b.*?(\d+\.?\d*)\s*(mg/dL)?
+  Hemoglobin: \b(Hemoglobin)\b.*?(\d+\.?\d*)\s*(g/dL)?
+  RBC Count: \b(RBC\s*Count)\b.*?(\d+\.?\d*)\s*(M/uL)?
+  # Hum yahan aur bhi tests add kar sakte hain
+
+# Settings for AI Parser (The Commando)
+llm_parser_config:
+  provider: "google_gemini"
+  model_name: "gemini-1.5-flash"
+  system_prompt: >
+    You are an expert AI system for parsing medical lab reports.
+    Your task is to extract specific medical information from the provided text.
+    The output MUST be a valid JSON object. Do not add any text or markdown formatting like ```json before or after the JSON.
+    The JSON object should have two main keys: 'patient_details' and 'test_results'.
+    'patient_details' should be an object containing: 'name', 'age', and 'sex'.
+    'test_results' should be an array of objects. Each object represents a single test and must contain:
+    - 'test_name': The name of the test (e.g., "Total Cholesterol").
+    - 'result': The numerical value of the test result. Convert it to a float.
+    - 'unit': The unit of measurement (e.g., "mg/dL").
+    - 'reference_range': The reference value or range for the test.
+    If any value is not found, use null.
+
+# Settings for Hybrid Logic
+parser_config:
+  # Agar Regex parser is number se kam test nikal paya, to hum Gemini use karenge
+  gemini_fallback_threshold: 5
