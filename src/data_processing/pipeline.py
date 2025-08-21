@@ -1,74 +1,85 @@
+# src/data_processing/pipeline.py
+
 import os
 import io
 import fitz  # PyMuPDF
 from google.cloud import vision
 import logging
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from typing import Optional
 
-def extract_text_from_file(file_path: str) -> str:
+# --- Global variable to hold our client ---
+# We start with None, so it's "lazy".
+_VISION_CLIENT: Optional[vision.ImageAnnotatorClient] = None
+
+def get_vision_client() -> vision.ImageAnnotatorClient:
     """
-    Takes a file path (PDF or Image), and extracts all text using Google Vision API.
-    This is our high-accuracy "Station 1: The Mouth".
+    Initializes and returns a single, shared instance of the Vision API client.
+    This is a professional pattern called the "Singleton" pattern.
+    """
+    global _VISION_CLIENT
+    if _VISION_CLIENT is None:
+        logging.info("Initializing Google Vision Client for the first time...")
+        try:
+            _VISION_CLIENT = vision.ImageAnnotatorClient()
+            logging.info("✅ Google Vision Client initialized successfully.")
+        except Exception as e:
+            logging.error(f"❌ CRITICAL: Failed to initialize Google Vision Client. Check credentials. Error: {e}")
+            raise ConnectionError("Could not initialize Google Vision client.") from e
+    return _VISION_CLIENT
+
+def _process_single_image_bytes(image_bytes: bytes, page_num: int = 0) -> str:
+    """Helper function to process a single image's bytes."""
+    client = get_vision_client()
+    image = vision.Image(content=image_bytes)
+    response = client.document_text_detection(image=image)
+    
+    if response.error.message:
+        raise Exception(f"Google Vision API error on page/image {page_num + 1}: {response.error.message}")
+    
+    return response.full_text_annotation.text
+
+def extract_text_from_file(file_path: str, max_workers: int = 10, dpi: int = 200) -> str:
+    """
+    High-performance, parallelized text extraction from a PDF or Image file.
     """
     logging.info(f"Starting text extraction for: {os.path.basename(file_path)}")
-    
-    # Vision API client ko function ke andar banayenge
-    try:
-        client = vision.ImageAnnotatorClient()
-    except Exception as e:
-        logging.error(f"Failed to create Vision API client. Check credentials. Error: {e}")
-        return ""
-
     file_extension = os.path.splitext(file_path)[1].lower()
-    
-    # CASE 1: FILE IS A PDF
-    if file_extension == '.pdf':
-        try:
-            doc = fitz.open(file_path)
-            all_text = []
-            
-            # Agar PDF mein zyada pages hon, to un sabko process karega
-            for page_num in range(len(doc)):
-                page = doc.load_page(page_num)
-                # High DPI for better quality OCR
-                pix = page.get_pixmap(dpi=300)
-                img_byte_arr = pix.tobytes("png")
-                
-                image = vision.Image(content=img_byte_arr)
-                response = client.document_text_detection(image=image)
-                
-                if response.error.message:
-                    raise Exception(response.error.message)
-                    
-                all_text.append(response.full_text_annotation.text)
-            
-            doc.close()
-            logging.info(f"Successfully extracted text from {len(all_text)} pages of PDF.")
-            return "\n\n--- PAGE BREAK ---\n\n".join(all_text)
-            
-        except Exception as e:
-            logging.error(f"Error processing PDF {file_path}: {e}")
-            return ""
 
-    # CASE 2: FILE IS AN IMAGE
-    elif file_extension in ['.jpg', '.jpeg', '.png']:
-        try:
+    try:
+        # --- PDF PROCESSING (Parallelized) ---
+        if file_extension == '.pdf':
+            doc = fitz.open(file_path)
+            with ThreadPoolExecutor(max_workers=max_workers) as executor:
+                futures = {
+                    executor.submit(_process_single_image_bytes, page.get_pixmap(dpi=dpi).tobytes("png"), page_num): page_num
+                    for page_num, page in enumerate(doc)
+                }
+                results = [""] * doc.page_count
+                for future in as_completed(futures):
+                    page_num = futures[future]
+                    try:
+                        results[page_num] = future.result()
+                        logging.info(f"Successfully processed page {page_num + 1}/{doc.page_count}.")
+                    except Exception as e:
+                        logging.error(f"Failed to process page {page_num + 1}: {e}")
+            doc.close()
+            return "\n\n--- PAGE BREAK ---\n\n".join(results)
+
+        # --- IMAGE PROCESSING (Single Task) ---
+        elif file_extension in ['.jpg', '.jpeg', '.png']:
             with io.open(file_path, 'rb') as image_file:
                 content = image_file.read()
-            
-            image = vision.Image(content=content)
-            response = client.document_text_detection(image=image)
-
-            if response.error.message:
-                raise Exception(response.error.message)
-            
-            logging.info("Successfully extracted text from image.")
-            return response.full_text_annotation.text
-            
-        except Exception as e:
-            logging.error(f"Error processing Image {file_path}: {e}")
+            return _process_single_image_bytes(content)
+        
+        else:
+            logging.warning(f"Unsupported file type: {file_extension}. Skipping.")
             return ""
-            
-    # CASE 3: UNSUPPORTED FILE
-    else:
-        logging.warning(f"Unsupported file type: {file_extension}. Skipping.")
+
+    except Exception as e:
+        logging.error(f"An error occurred during text extraction for {file_path}: {e}", exc_info=True)
         return ""
+    
+    
+    
+    
