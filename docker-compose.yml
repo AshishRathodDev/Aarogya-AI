@@ -1,0 +1,37 @@
+# docker-compose.yml (Final)
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: aarogya_api
+    volumes:
+      - ./src/aarogya_ai:/app/aarogya_ai
+      - ./params.yaml:/app/params.yaml
+    ports:
+      - "8000:8000"
+    networks:
+      - aarogya-net
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.dashboard
+    container_name: aarogya_dashboard
+    volumes:
+      - ./src/aarogya_ai/dashboard.py:/app/src/aarogya_ai/dashboard.py
+    ports:
+      - "8501:8501"
+    environment:
+      - API_HOST=api
+      - API_PORT=8000
+    networks:
+      - aarogya-net
+    depends_on:
+      - api
+networks:
+  aarogya-net:
+    driver: bridge
+
+
+
+    

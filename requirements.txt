@@ -1,0 +1,18 @@
+# requirements.txt (Definitive Production Dependencies)
+fastapi
+uvicorn[standard]
+gunicorn
+python-multipart
+streamlit
+requests
+pandas
+scikit-learn
+google-generativeai
+google-cloud-vision
+PyMuPDF
+PyYAML
+python-dotenv
+pydantic
+pydantic-settings
+tqdm
+

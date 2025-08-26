@@ -1,0 +1,1759 @@
+test_name,result,unit,reference_range,patient_name,source_file
+Hemoglobin (Hb),13.0,g/dL,13.00-17.00,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+Total RBC count,5.0,mill/cumm,4.50-5.50,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+Packed Cell Volume (PCV),45.0,%,40-50,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+Mean Corpuscular Volume (MCV),100.0,fL,83-101,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+MCH,30.0,pg,27-32,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+MCHC,,g/dL,32.50-34.50,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+RDW,,,,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+Total WBC count,12.0,cumm,11.60-14.00,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+Neutrophils,60.0,%,50-62,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+Lymphocytes,30.0,%,20-40,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+Eosinophils,2.0,%,00-06,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+Monocytes,8.0,%,00-10,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+Basophils,0.0,%,00-02,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+Platelet Count,20000.0,cumm,150000-410000,Yashvi M. Patel,ee9d0cc9a6ff0ce1775ac233da86d3f2.jpg
+Total Cholesterol,2.0,,,,070a0bf186108bfd43470afab9738e32.jpg
+Triglycerides,100.0,,,,070a0bf186108bfd43470afab9738e32.jpg
+HDL Cholesterol,50.0,,,,070a0bf186108bfd43470afab9738e32.jpg
+LDL Cholesterol,80.0,,,,070a0bf186108bfd43470afab9738e32.jpg
+VLDL Cholesterol,20.0,,,,070a0bf186108bfd43470afab9738e32.jpg
+Globules blancs,6.12,x10.9/1,"(4,49-12,68)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Globules rouges,3.7,x10.12/1,"(3,92-5,08)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Hémoglobine,9.9,g/dl,"(12,0-16,0)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Hématocrite,32.7,%,"(36,6-44,0)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+V.G.M.,88.4,₪3,"(82,9-98,0)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+T.G.M.H.,26.8,pg,"(27,0-32,3)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+C.C.M.H.,30.3,g/dl,"(31,8-34,7)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+PLAQUETTES,431.0,x10.9/1,(150-400),,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Volume plaquettaire moyen,9.4,μ3,"(9,1-11,9)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Polynucléaires neutrophiles,3.01,x10.9/1,"(1,50-7,00)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Polynucléaires neutrophiles,49.2,%,,,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Polynucléaires éosinophiles,0.14,x10.9/1,"(0,01-0,40)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Polynucléaires éosinophiles,2.3,%,,,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Polynucléaires basophiles,0.07,x10.9/1,"(0,01-0,10)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Polynucléaires basophiles,1.1,%,,,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Lymphocytes,1.61,x10.9/1,"(1,50-4,00)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Lymphocytes,26.3,%,,,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Monocytes,1.29,x10.9/1,"(0,20-0,80)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Monocytes,21.1,%,,,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Anisocytose,,,,,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+RETICULOCYTES,82.1,x10.9/1,"(20,0-120,0)",,1c9a21b28dca41ad47ac43d1af4fbc16 (1).jpg
+Uric Acid,5.2,mg/dL,3.5 - 7.2 mg/dL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+TSH,6.014,μIU/mL,0.55-4.78 μIU/mL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Urea,15.0,mg/dL,17 - 43 mg/dL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Creatinine,0.6,mg/dL,0.7 - 1.2 mg/dL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Sodium,139.0,mmol/L,136 146 mmol/L,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Potassium,3.99,mmol/L,3.5 5.1 mmol/L,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Chlorides,102.0,mmol/L,101 109 mmol/L,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Plasma Glucose (Random),79.0,mg/dL,70-140 mg/dL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Carcino Embryonic Antigen (CEA),4154.0,ng/mL,"Non-Smokers <3.8 ng/mL
+Smokers < 5.5 ng/mL",MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Haemoglobin,10.9,g/dL,13.0 17.0 g/dL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Total RBC Count,3.69,millions/cumm,4.5 5.5 millions/cumm,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Packed Cell Volume / Hematocrit,33.4,Vol%,40.0 50.0 Vol%,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+MCV,90.5,fl,83.0 101.0 fl,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+MCH,29.4,pg,27-32 pg,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+MCHC,32.5,gm/dL,31.5 34.5 gm/dL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+RDW,19.3,%,11.6 14.0 %,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Total WBC Count,8500.0,Cells/cumm,4000 10000 Cells/cumm,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Neutrophils,78.0,%,40 - 80 %,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Lymphocytes,9.0,%,20-40%,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Eosinophils,3.0,%,1 - 6 %,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Monocytes,10.0,%,2-10 %,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Basophils,0.0,%,0-2 %,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Absolute Leucocyte Count,6630.0,Cells/cumm,2000 7000 Cells/cumm,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Absolute Lymphocyte Count,765.0,Cells/cumm,1000 3000 Cells/cumm,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Absolute Eosinophil Count,255.0,Cells/cumm,20 500 Cells/cumm,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Absolute Monocyte Count,850.0,Cells/cumm,200 1000 Cells/cumm,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Platelet Count,230000.0,/cumm,150000 410000 /cumm,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Total Bilirubin,0.3,,0.3 - 1.2,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Conjugated Bilirubin,0.1,mg/dL,Less than 0.2 mg/dL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Unconjugated Bilirubin,0.2,mg/dL,0.3 1.00 mg/dL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+ALT/SGPT,11.0,U/L,0 - 50 U/L,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+AST/SGOT,23.0,U/L,0 - 50 U/L,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Alkaline Phosphatase,113.0,U/L,30 120 U/L,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Total Protein (TP),5.2,g/dL,6.6-8.3 g/dL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Albumin,3.2,g/dL,3.5 - 5.2 g/dL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Globulin,2.0,g/dL,1.8 -3.6 g/dL,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Albumin/Globulin (A/G) Ratio,1.6,,0.8-2.0,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Gamma-Glutamyl Transferase (GGT),40.0,U/L,0 - 55 U/L,MR. C BHANU PRAKASH,ilide.info-blood-tests-report11-pr_1a2ffdabcdbfacf92a93f35c75079010.pdf
+Hemoglobin,14.0,g/dL,13.00-17.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Packed Cell Volume (PCV),44.7,%,40.00-50.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+RBC Count,4.79,mill/mm3,4.50-5.50,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+MCV,85.0,fL,80.00-100.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+MCH,30.7,pg,27.00-32.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+MCHC,33.9,g/dL,32.00-35.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Red Cell Distribution Width (RDW),12.9,%,11.50-14.50,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Total Leukocyte Count (TLC),4.2,thou/mm3,4.00-10.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Segmented Neutrophils,39.6,%,40.00-80.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Lymphocytes,50.3,%,20.00-40.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Monocytes,8.1,%,2.00-10.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Eosinophils,1.4,%,1.00-6.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Basophils,0.6,%,<2.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Neutrophils,1.66,thou/mm3,2.00-7.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Lymphocytes,2.11,thou/mm3,1.00-3.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Monocytes,0.34,thou/mm3,0.20-1.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Eosinophils,0.06,thou/mm3,0.02-0.50,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Basophils,0.03,thou/mm3,0.01-0.10,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+Platelet Count,245.0,thou/mm3,150.00-450.00,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+MALARIA PARASITE / BLOOD PARASITE IDENTIFICATION (Microscopy),,,,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+"ALT (SGPT), SERUM (IFCC)",127.0,U/L,<50,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+"WIDAL TEST, SERUM (Slide Agglutination) Salmonella typhi O (TO)",,,,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+"WIDAL TEST, SERUM (Slide Agglutination) Salmonella typhi H (TH)",,,,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+"WIDAL TEST, SERUM (Slide Agglutination) Salmonella paratyphi A, H (AH)",,,,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+"WIDAL TEST, SERUM (Slide Agglutination) Salmonella paratyphi B, H (BH)",,,,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+SERUM,1.9,mg/dL,0.30-1.20,Mr. DEBABRATA DAS,ilide.info-blood-report-pdf-pr_9a268b5250cb8558dbb44f1a5471b594.pdf
+RBC',4.3,M/pl,3.8-5.2,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+"Haemoglobin""",12.4,g/di,11.5-16.0,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Hematocrit (HCT)*,37.4,%,36.0-46.0,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+MCV*,87.6,fl,80-100,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+MCH*,29.0,pg,26-34,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+MCHC*,33.2,g/dL,31-37,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+RDW*,13.3,%,11.5-16.0,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Platelet Count'^,276.0,K/μL,150-450,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+WBC^,6.1,K/μL,4.0-11.0,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Neutrophils %^,50.8,%,44.0-74.0,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Lymphocytes%^,35.1,%,20.0-40.0,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Monocytes%^,6.3,%,2.0-10.0,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Eosinophils %^,7.1,%,0.5-6.0,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Basophils%^,0.7,%,0.0-2.0,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Neutrophils^*,3.1,K/μL,1.8-7.7,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Lymphocytes^*,2.1,K/μL,1.0-4.8,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Monocytes^*,0.4,K/μL,0.2-1.0,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Eosinophils^*,0.43,K/μL,0.02-0.50,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Basophils^*,0.04,K/μL,0.00-0.10,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Immature Granulocytes%#,0.2,%,<2,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Nucleated RBC (NRBC) %#,0.0,%,,MADEEHA KAMRAN KAMRAN SHUJA,ce7005195bd063e9322102d2c67d4030.jpg
+Hemoglobin,16.0,g/dL,13.00-17.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Packed Cell Volume (PCV),52.1,%,40.00-50.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+RBC Count,5.77,mill/mm3,4.50-5.50,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+MCV,90.0,fL,83.00-101.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+MCH,30.6,pg,27.00-32.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+MCHC,33.8,g/dL,31.50-34.50,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Red Cell Distribution Width (RDW),12.0,%,11.60-14.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Total Leukocyte Count (TLC),6.2,thou/mm3,4.00-10.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Segmented Neutrophils,33.0,%,40.00-80.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Lymphocytes,60.8,%,20.00-40.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Monocytes,4.2,%,2.00-10.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Eosinophils,1.4,%,1.00-6.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Basophils,0.6,%,<2.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Neutrophils,2.05,thou/mm3,2.00-7.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Lymphocytes,3.77,thou/mm3,1.00-3.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Monocytes,0.26,thou/mm3,0.20-1.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Eosinophils,0.09,thou/mm3,0.02-0.50,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Basophils,0.04,thou/mm3,0.02-0.10,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Platelet Count,211.0,thou/mm3,150.00-410.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+Mean Platelet Volume,8.8,fL,6.5-12.0,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+ERYTHROCYTE SEDIMENTATION RATE (ESR),5.0,mm/hr,0-15,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+"CREATININE, SERUM",0.68,mg/dL,0.70-1.20,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+"AST (SGOT), SERUM",42.0,U/L,10.00-50.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+"ALT (SGPT), SERUM",99.1,U/L,10.00-50.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+"SODIUM, SERUM",140.9,mEq/L,136.00-145.00,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+"POTASSIUM, SERUM",4.63,mEq/L,3.50-5.10,Mr. YATENDRA KASHYAP,ilide.info-blood-report-yatendra-08112022-pr_f3a5f87935b72e03ba691272563ae35f.pdf
+GRUPO ABO/RhD,,,NO APLICA,RODRIGUEZ MUÑOZ DANIEL,5c6382972d8519d3767c65385187250b.jpg
+HEMOGLOBINA,16.6,g/dL,"Hombre: 14.5
+Mujer: 13.5",RODRIGUEZ MUÑOZ DANIEL,5c6382972d8519d3767c65385187250b.jpg
+PLAQUETAS,285.0,x10% μL,"Sangre Total: ≥150
+Plaquetaferesis: ≥200",RODRIGUEZ MUÑOZ DANIEL,5c6382972d8519d3767c65385187250b.jpg
+RASTREO ANTICUERPOS IRREGULARES,,,NO APLICA,RODRIGUEZ MUÑOZ DANIEL,5c6382972d8519d3767c65385187250b.jpg
+Ac.Anti-HIV 1+2 y Ag-p24,,,NO REACTIVO,RODRIGUEZ MUÑOZ DANIEL,5c6382972d8519d3767c65385187250b.jpg
+Antigeno de superficie Hepatitis B,,,NO REACTIVO,RODRIGUEZ MUÑOZ DANIEL,5c6382972d8519d3767c65385187250b.jpg
+HCV Ag-Ac,,,NO REACTIVO,RODRIGUEZ MUÑOZ DANIEL,5c6382972d8519d3767c65385187250b.jpg
+Ac. Anti-T.pallidum,,,NO REACTIVO,RODRIGUEZ MUÑOZ DANIEL,5c6382972d8519d3767c65385187250b.jpg
+Ac. Anti-T.cruzi Lisado,,,NO REACTIVO,RODRIGUEZ MUÑOZ DANIEL,5c6382972d8519d3767c65385187250b.jpg
+Ac. Anti-VHBC,,,NO REACTIVO,RODRIGUEZ MUÑOZ DANIEL,5c6382972d8519d3767c65385187250b.jpg
+Ac. Anti-T. cruzi recombinante,,,NO REACTIVO,RODRIGUEZ MUÑOZ DANIEL,5c6382972d8519d3767c65385187250b.jpg
+Globules blancs,6.12,x10.9/1,"(4,49-12,68)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Globules rouges,3.7,x10.12/1,"(3,92-5,08)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Hémoglobine,9.9,g/dl,"(12,0-16,0)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Hématocrite,32.7,%,"(36,6-44,0)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+V.G.M.,88.4,₪3,"(82,9-98,0)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+T.G.M.H.,26.8,pg,"(27,0-32,3)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+C.C.M.H.,30.3,g/dl,"(31,8-34,7)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+PLAQUETTES,431.0,x10.9/1,(150-400),,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Volume plaquettaire moyen,9.4,μ3,"(9,1-11,9)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Polynucléaires neutrophiles,3.01,x10.9/1,"(1,50-7,00)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Polynucléaires neutrophiles,49.2,%,,,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Polynucléaires éosinophiles,0.14,x10.9/1,"(0,01-0,40)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Polynucléaires éosinophiles,2.3,%,,,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Polynucléaires basophiles,0.07,x10.9/1,"(0,01-0,10)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Polynucléaires basophiles,1.1,%,,,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Lymphocytes,1.61,x10.9/1,"(1,50-4,00)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Lymphocytes,26.3,%,,,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Monocytes,1.29,x10.9/1,"(0,20-0,80)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Monocytes,21.1,%,,,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Anisocytose,,,,,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+RETICULOCYTES,82.1,x10.9/1,"(20,0-120,0)",,1c9a21b28dca41ad47ac43d1af4fbc16.jpg
+Globules blancs,4800.0,/pul,(4000-10000),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+Globules rouges,3.99,M/ul,"(4.2-5,7)",Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+Hémoglobine,13.0,g/dl,(13-18),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+Hématocrite,36.3,,(40-54),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+VGM,90.98,fl,(78-98),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+TGMH,32.58,pg,(26-33),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+CCMH,35.81,g/dl,(29-39),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+Plaquettes,168.0,10³µl,(150-450),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+Neutrophiles,59.6,%,(45-70),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+Lymphocytes,33.8,%,(20-40),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+Monocytes,4.5,%,(2-8),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+Eosinophiles,2.0,%,(Inférieur à 4 ),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+Basophiles,0.1,%,(Inférieur à 1),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+VITESSE DE SEDIMENTATION Première heure,8.0,mm,(2-8),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+VITESSE DE SEDIMENTATION Deuxième heure,20.0,mm,(5-15),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+CREATININE,10.83,mg/1,(7-13),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+CREATININE,95.85,μmol,(60-120),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+ACIDE URIQUE,62.11,mg/l,(34-70),Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+ACIDE URIQUE,369.55,μmol/l,"(200-416,5)",Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+GLYCEMIE à jeûn,0.99,g/l,"(0,7-1.1)",Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+GLYCEMIE à jeûn,5.5,mmol/l,"(3,9-6.1)",Mr MBARKI Mabrouk,8efae4a2a4bfbd6e781f7eb5b109bbc2.jpg
+Total Cholesterol,2.0,,,,WM115.pdf
+Triglycerides,150.0,,,,WM115.pdf
+HDL Cholesterol,40.0,,,,WM115.pdf
+LDL Cholesterol,100.0,,,,WM115.pdf
+VLDL Cholesterol,30.0,,,,WM115.pdf
+Hemoglobin,25.0,,,,WM115.pdf
+RBC Count,25.0,,,,WM115.pdf
+Total Cholesterol,246.0,,,,TEST-REPORT-02.12.2022-.pdf
+Triglycerides,1153.0,,,,TEST-REPORT-02.12.2022-.pdf
+HDL Cholesterol,63.0,,,,TEST-REPORT-02.12.2022-.pdf
+LDL Cholesterol,47.0,,,,TEST-REPORT-02.12.2022-.pdf
+VLDL Cholesterol,26.0,,,,TEST-REPORT-02.12.2022-.pdf
+Hemoglobin,20.44,,,,TEST-REPORT-02.12.2022-.pdf
+RBC Count,4.5,,,,TEST-REPORT-02.12.2022-.pdf
+Haemoglobin,13.6,gm/dl,12.0-18.0,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+Total W.B.C. Count,10100.0,/cum,4000-11000/cumm,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+Polymorph,70.0,%,40-72%,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+Lymphocyte,24.0,%,20-40%,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+Eosinophil,5.0,%,0-6%,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+Monocyte,1.0,%,0-1%,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+Basophil,0.0,%,0-1%,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+R.B.C.,5.21,million/cmm,3.5-5.5,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+P. C. V. (hemotocrite),40.3,Litre/Litre,36-48,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+M.C. V.,91.4,fl,82-98,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+M. C. H.,29.5,Pg,27-32,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+M.C. H.C,33.1,g/dl,28-36,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+R.D.W-C.V,12.4,%,11.6-14.0,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+Platelete Count,1.56,/cum,1.5-4.5 lacs/cumm,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+Blood Sugar Random,92.0,mg/dl,70-160mg/dl,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+Serum Urea,107.9,mg/dl,14-40,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+Serum Creatinine,3.01,mg/dl,0.7-1.5,SHREESH PATH HAWALDAR,0d8b73af9352dee034de3d3c9b272b19.jpg
+HAEMOGLOBIN,10.6,g/dL,12-15,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+RED BLOOD CELL COUNT (RBC),5.38,millions/mm³,3.8-5.2,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+HEMATOCRIT (HCT),33.6,%,36-47,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+MEAN PLATELET VOLUME (MPV),10.2,fL,8.6-15.5,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+MEAN CORPUSCULAR VOLUME (MCV),62.5,fL,78-97,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+MEAN CORPUSCULAR HAEMOGLOBIN (MCH),19.8,pg,27-31,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+MEAN CORPUSCULAR HAEMOGLOBIN CONCENTRATION (MCHC),31.7,g/dL,33-37,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+RED CELL DISTRIBUTION WIDTH-COEFFICIENT OF VARIATION(RDW-CV),19.8,%,11.5 - 14.5,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+RED CELL DISTRIBUTION WIDTH-STANDARD DEVIATION(RDW-SD),47.9,fL,40-55 fL,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+TOTAL LEUKOCYTE COUNT (TLC),8270.0,/mm³,4000 11000,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+PLATELET COUNT,210000.0,/cumm,150000-450000,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+PLATELET DISTRIBUTION WIDTH (PDW),15.5,,ΝΑ,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+PLATELETCRIT (PCT),0.214,%,0.15-0.62 %,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+PLATELET - LARGE CELL RATIO,34.1,%,11.9 - 66.9 %,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+NEUTROPHILS,50.6,%,40-75,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+LYMPHOCYTES,41.0,%,20-40,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+EOSINOPHILS,3.0,%,0.0-8.0,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+BASOPHILS,0.0,%,< 01,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+MONOCYTES,5.4,%,2-10,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+IMMATURE GRANULOCYTE (IG),0.1,%,0-0.5,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+Absolute Neutrophils,4190.0,/mm³,2000 - 7000,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+Absolute Lymphocytes,3400.0,/mm³,1000-3000,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+Absolute Eosinophils,240.0,/mm³,100-1000,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+Absolute Monocytes,440.0,/mm³,200-1200,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+Absolute Basophils,20.0,/mm³,20-100,MRS.KAUSAR NAZNEEN,ilide.info-mom-blood-report-pr_5bc6fe0fffe1d71a2908e105ed54f244.pdf
+Total Cholesterol,142.0,mg/dL,,,ilide.info-father-blood-test-report-sgrh-pr_c59e9a0a91314ac08bd79594ab0650e5.pdf
+Triglycerides,116.0,mg/dL,,,ilide.info-father-blood-test-report-sgrh-pr_c59e9a0a91314ac08bd79594ab0650e5.pdf
+LDL Cholesterol,93.0,mg/dL,,,ilide.info-father-blood-test-report-sgrh-pr_c59e9a0a91314ac08bd79594ab0650e5.pdf
+VLDL Cholesterol,14.0,mg/dL,,,ilide.info-father-blood-test-report-sgrh-pr_c59e9a0a91314ac08bd79594ab0650e5.pdf
+Hemoglobin,1.0,,,,ilide.info-father-blood-test-report-sgrh-pr_c59e9a0a91314ac08bd79594ab0650e5.pdf
+CREATININE,0.6,mg/dL,"Male: 0.7- 1.2 mg/dL
+Neonates: 0.3- 1.0 mg/dL
+Children: 0.3 0.8 mg/dL",MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+Triglycerides,146.0,mg/dL,< 150 mg/dL,MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+Total Cholesterol,135.0,mg/dL,"Desirable Level: < 200 mg/dL
+Borderline: 200 - 240 mg/dL
+Undesirable: > 240 mg/dL",MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+HDL Cholesterol,80.0,mg/dL,"Optimal: < 100 mg/dL
+Near Optimal : 100 - 129 mg/dL
+Borderline High: 130 - 159 mg/dL
+High: 160 - 189 mg/dL
+Very High: > 190 mg/dL",MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+LDL Cholesterol,,,,MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+VLDL,29.0,mg/dL,< 30 mg/dL,MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+Total Cholesterol/HDL Cholesterol Ratio,5.19,,"Low Risk: 3.3-4.4
+Average Risk : 4.5 - 7.1
+Moderate Risk: 7.2 - 11.0",MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+LDL Cholesterol/HDL Cholesterol Ratio,3.07,,"Desirable Level : 0.5 - 3.0
+Borderline Risk: 3.0 - 6.0
+High Risk: > 6.0",MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+Total Bilirubin,0.4,mg/dL,0.3 1.2 mg/dL,MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+Conjugated Bilirubin,0.1,mg/dL,Less than 0.2 mg/dL,MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+Unconjugated Bilirubin,0.3,mg/dL,0.3 1.00 mg/dL,MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+SGPT/ALT,23.0,U/L,"Male Adults: Upto 50 U/L
+Newborn/Infant: 13 - 45 U/L",MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+SGOTAST,21.0,U/L,"Male (Adult): 0-50 U/L
+New Born: 25 - 75 U/L
+Infant: 1560 U/L",MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+ALKALINE PHOSPHATASE (ALP),174.0,U/L,52171 U/L,MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+Total Protein (TP),7.6,g/dL,5.7-8.0 g/dL,MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+ALBUMIN,4.1,g/dL,"Adult: 3.5-5.2 g/dL
+New Born (0- 4 Days): 2.8-4.4 g/dL",MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+GLOBULIN,3.5,g/dL,1.8-3.6 g/dL,MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+Albumin/Globulin (A/G) Ratio (LFT-A),1.2,,0.8-2.0,MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+Gamma-Glutamyl Transferase (GGT),17.0,U/L,2-42 U/L,MR. SRI RAMA CHANDRA REDDY,ilide.info-blood-report-pr_8e4f44809ba41f1c1533f4475ab7d2a9.pdf
+HB,13.2,G/DL,,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+TLC,7910.0,CUMM,,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+PLATELET,223000.0,CUMM,,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+LFT,,,WNL,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+RFT,,,WNL,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+HBA1C,5.8,,,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+PT,10.6,,,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+INR,0.92,,,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+HIV /HBSAG/HCV,,,NR,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+HB,10.4,,,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+TLC,11410.0,,,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+PLATLET,164000.0,,,MRS OMWATI SOLANKI,ilide.info-discharge-summary-pr_7e81e6e63ff3ec8bbdfa1d289d2e2d6a.pdf
+Random Blood Sugar RBS (Glucose),70.1,mg/dl,74-140,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+"Bile Acids Total, Serum",5.3,μmol/L,0.5-10.0,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Rapid Card Test - HCV,Non Reactive,,,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Rapid Card Test - HIV I & II,Non Reactive,,,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+"Rapid Card Test - Hepatitis B Surface Antigen, (HBsAg)",Non Reactive,,,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Total Protein,6.72,g/dl,6.5-8.1,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Albumin,3.4,g/dl,3.5-5.0,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Globulin,3.3,g/dl,2.3-3.5,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+A.G. ratio,1.0,,1.2-1.5,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Bilirubin (Total),0.61,mg/dl,0.3-1.2,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Bilirubin (Direct),0.11,mg/dl,0.1-0.5,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Bilirubin (Indirect),0.5,mg/dL,0.1-1.0,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+SGOT- Aspartate Transaminase (AST),24.0,U/L,< 50,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+SGPT-Alanine Transaminase (ALT),17.0,U/L,17-63,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+AST/ALT Ratio,1.41,Ratio,,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Alkaline Phosphatase,200.0,U/L,32-91,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+GGTP (Gamma GT),12.0,U/L,7-50,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - pH,6.0,,5-6,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Specific Gravity,1.02,,1.015-1.025,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Protein,Neg,,Nil,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Glucose,Neg,,Nil,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Ketones,Neg,,Nil,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Blood,Neg,,Nil,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Bilirubin,Neg,,Nil,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Urobilinogen,Normal,,Normal,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Nitrite,Neg,,Nil,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Red Blood Cells (RBC),Nil,/HPF,0-1,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - White Blood Cells,1.0,/HPF,0.0-5.0,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Squamous Epithelial Cells,1.0,/HPF,0-1,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Cast,Nil,/LPF,Nil,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Urine Routine And Microscopy - Crystals,Nil,,Nil,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Activated Partial Thromboplastin Time (APTT) Test,29.1,Sec,23.7-34.0,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Prothrombin Time (PT),9.8,Sec,9.7-13.7,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+MNPT Value,11.7,Sec,,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+INR,0.84,,0.8-1.1,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+CBC (Complete Blood Count) - Haemoglobin,12.3,g/dl,12.0-15.0,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+CBC (Complete Blood Count) - Packed Cell Volume,37.4,%,40-50,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+CBC (Complete Blood Count) - Total Leucocyte Count (TLC),6.7,10^9/L,4.0-10.0,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+CBC (Complete Blood Count) - RBC Count,3.73,10^12/L,3.8-4.8,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+MCV,100.3,fL,83-101,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+MCH,32.9,pg,27-32,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+MCHC,32.8,g/dl,31.5-34.5,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Platelet Count,166.0,10^9/L,150-410,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+MPV,12.9,fl,7.8-11.2,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+RDW,16.4,%,11.5-14.5,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Differential Cell Count - Neutrophils,66.0,%,40-80,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Differential Cell Count - Lymphocytes,25.8,%,20-40,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Differential Cell Count - Monocytes,6.3,%,2-10,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Differential Cell Count - Eosinophils,1.3,%,1-6,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Differential Cell Count - Basophils,0.6,%,0-2,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Absolute Leukocyte Count - Absolute Neutrophil Count,4.42,10^9/L,2.0-7.0,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Absolute Leukocyte Count - Absolute Lymphocyte Count,1.7,10^9/L,1.0-3.0,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Absolute Leukocyte Count - Absolute Monocyte Count,0.42,10^9/L,0.2-1.0,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Absolute Leukocyte Count - Absolute Eosinophil Count,0.09,10^9/L,0.02-0.5,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+Absolute Leukocyte Count - Absolute Basophil Count,0.04,10^9/L,0.02-0.1,Miss. Shejal Shakya,ilide.info-max-lab-report-pr_37cb37b89df9e8adaa05f697b81e36b0.pdf
+AST (SGOT),1357.9,U/L,<40,Mr. SHIVANSH SONI,ilide.info-lft-lalpath-pr_954f6d86d0a1283e13913a933d03e4bf.pdf
+ALT (SGPT),913.5,U/L,<41,Mr. SHIVANSH SONI,ilide.info-lft-lalpath-pr_954f6d86d0a1283e13913a933d03e4bf.pdf
+AST:ALT Ratio,0.81,,<1.00,Mr. SHIVANSH SONI,ilide.info-lft-lalpath-pr_954f6d86d0a1283e13913a933d03e4bf.pdf
+GGTP,51.0,U/L,<71.00,Mr. SHIVANSH SONI,ilide.info-lft-lalpath-pr_954f6d86d0a1283e13913a933d03e4bf.pdf
+Alkaline Phosphatase (ALP),227.0,U/L,<128,Mr. SHIVANSH SONI,ilide.info-lft-lalpath-pr_954f6d86d0a1283e13913a933d03e4bf.pdf
+Bilirubin Total,5.03,mg/dL,<1.10,Mr. SHIVANSH SONI,ilide.info-lft-lalpath-pr_954f6d86d0a1283e13913a933d03e4bf.pdf
+Bilirubin Direct,3.98,mg/dL,<0.20,Mr. SHIVANSH SONI,ilide.info-lft-lalpath-pr_954f6d86d0a1283e13913a933d03e4bf.pdf
+Bilirubin Indirect,1.05,mg/dL,<1.10,Mr. SHIVANSH SONI,ilide.info-lft-lalpath-pr_954f6d86d0a1283e13913a933d03e4bf.pdf
+Total Protein,7.85,g/dL,6.40 8.30,Mr. SHIVANSH SONI,ilide.info-lft-lalpath-pr_954f6d86d0a1283e13913a933d03e4bf.pdf
+Albumin,4.53,g/dL,3.50 5.20,Mr. SHIVANSH SONI,ilide.info-lft-lalpath-pr_954f6d86d0a1283e13913a933d03e4bf.pdf
+A: G Ratio,1.36,,0.90 -2.00,Mr. SHIVANSH SONI,ilide.info-lft-lalpath-pr_954f6d86d0a1283e13913a933d03e4bf.pdf
+Bilirubin Total,1.4,mg/dL,0.0-1.2,Mr. PL94,pathkind_report.pdf
+Bilirubin Direct,1.2,mg/dL,0.0-0.2,Mr. PL94,pathkind_report.pdf
+Serum Bilirubin (Indirect),0.2,mg/dL,0.00 -0.90,Mr. PL94,pathkind_report.pdf
+SGOT / AST,36.0,U/L,0-33,Mr. PL94,pathkind_report.pdf
+SGPT / ALT,35.0,U/L,0-41,Mr. PL94,pathkind_report.pdf
+AST / ALT Ratio,1.03,,,Mr. PL94,pathkind_report.pdf
+Alkaline Phosphatase (ALP),25.0,U/L,40-129,Mr. PL94,pathkind_report.pdf
+Total Protein,6.9,g/dL,6.4-8.3,Mr. PL94,pathkind_report.pdf
+Albumin,4.6,g/dL,3.5-4.8,Mr. PL94,pathkind_report.pdf
+Globulin,2.3,g/dL,1.9-3.7,Mr. PL94,pathkind_report.pdf
+Albumin/Globulin (A/G) Ratio,2.0,g/dL,1.0-2.1,Mr. PL94,pathkind_report.pdf
+TOTAL LEUCOCYTE COUNT,9700.0,/cu.mm,4000 - 11000,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+HB. (HAEMOGLOBIN),15.5,g/dL,11-16.5,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+RBC,4.9,/L,3.80-5.80,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+PCV,36.7,%,26-50,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+MCV,89.0,Fl,80-97,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+MCH,29.8,Pg,26.5-33.5,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+MCHC,33.4,gm/dl,31.5-35.0,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+R.D.W,12.7,%,10.0-15.0,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+NEUTROPHILS,63.0,%,45-75,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+LYMPHOCYTES,31.0,%,20-40,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+MONOCYTES,6.0,%,2-10,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+EOSINOPHILS,3.0,%,1-6,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+PLATELET COUNT,340.0,Lac/cu.mm,150-450,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+MPV,8.9,μm3,6.5-11.0,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+PDW,14.7,%,10-18,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+ERYTHROCYTE SEDIMENTATION RATE (ESR),15.0,mm/hour,0-20,Mrs. SANCHIT JAIN,ilide.info-mrs-sanchit-jain-end-of-report-pr_46cedc776ba4e255cbf7657fddc95319.pdf
+Hemoglobin,11.0,g/dL,13.00-17.00,DUMMY,HDL.pdf
+Packed Cell Volume (PCV),33.0,%,40.00-50.00,DUMMY,HDL.pdf
+RBC Count,4.0,mill/mm3,4.50-5.50,DUMMY,HDL.pdf
+MCV,88.0,fL,83.00-101.00,DUMMY,HDL.pdf
+MCH,27.0,pg,27.00-32.00,DUMMY,HDL.pdf
+MCHC,31.5,g/dL,31.50-34.50,DUMMY,HDL.pdf
+Red Cell Distribution Width (RDW),11.0,%,11.60-14.00,DUMMY,HDL.pdf
+Mentzer Index,22.0,,,DUMMY,HDL.pdf
+Total Leukocyte Count (TLC),5.0,thou/mm3,4.00-10.00,DUMMY,HDL.pdf
+Segmented Neutrophils,70.0,%,40.00-80.00,DUMMY,HDL.pdf
+Lymphocytes,20.0,%,20.00-40.00,DUMMY,HDL.pdf
+Monocytes,2.0,%,2.00-10.00,DUMMY,HDL.pdf
+Eosinophils,6.0,%,1.00-6.00,DUMMY,HDL.pdf
+Basophils,2.0,%,<2.00,DUMMY,HDL.pdf
+Neutrophils,3.5,thou/mm3,2.00-7.00,DUMMY,HDL.pdf
+Lymphocytes,1.0,thou/mm3,1.00-3.00,DUMMY,HDL.pdf
+Monocytes,0.1,thou/mm3,0.20-1.00,DUMMY,HDL.pdf
+Eosinophils,0.3,thou/mm3,0.02-0.50,DUMMY,HDL.pdf
+Basophils,0.1,thou/mm3,0.02-0.10,DUMMY,HDL.pdf
+Platelet Count,150.0,thou/mm3,150.00-410.00,DUMMY,HDL.pdf
+Mean Platelet Volume,4.0,fL,6.5-12.0,DUMMY,HDL.pdf
+HAEMOGLOBIN,12.9,g/dL,"Male :13.5 to 17.0
+Female :11.5 to 15.5
+Infants :14.0 to 19.0
+Children: 13.5 to 17.0",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+RBCs COUNT,4.27,Million/cm,"Male : 4.5 - 5.5
+Female : 3.8 - 4.8",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+PCV- Haematocrit,39.5,%,"Men 40 - 50 %
+Women: 36 - 44 %",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+TOTAL WBC COUNT,1660.0,cells/cumm,"4000 - 11,000 cells/cumm",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+Neutrophils,63.0,%,"Adults 50 - 70 %
+Infants 35 - 80 %",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+Lymphocytes,33.0,%,"Adults 20 - 40 %
+Infants 40 - 60 %",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+Eosinophils,1.0,%,1 - 6%,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+Monocytes,3.0,%,2 - 4 %,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+Basophils,0.0,%,1-2 %,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+PLATELET COUNT,1.21,lakhs/Cumm,1.5 - 4.5 Lakhs/Cumm,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+MCV,92.5,fl,83 - 101 fl,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+MCH,30.2,pg,28 - 32,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+MCHC,32.7,%,31.5 - 34.5 %,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_67a2e9a223049fc1daf054db7c440e6a.pdf
+HEMOGLOBIN,10.0,g/dL,13.0-17.0,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+RED BLOOD CELL COUNT,3.19,mil/μL,4.5-5.5,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+WHITE BLOOD CELL COUNT,3.42,thou/μL,4.0-10.0,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+PLATELET COUNT,69.0,thou/μL,150-410,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+HEMATOCRIT,29.9,%,40-50,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+MEAN CORPUSCULAR VOL,93.7,fL,83-101,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+MEAN CORPUSCULAR HGB.,31.3,pg,27.0-32.0,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+MEAN CORPUSCULAR HEMOGLOBIN CONCENTRATION,33.4,g/dL,31.5-34.5,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+RED CELL DISTRIBUTION WIDTH,21.1,%,11.6-14.0,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+MEAN PLATELET VOLUME,10.1,fL,6.8-10.9,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+SEGMENTED NEUTROPHILS,43.8,%,40-80,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+ABSOLUTE NEUTROPHIL COUNT,1.5,thou/μL,2.0-7.0,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+EOSINOPHILS,1.8,%,1-6,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+ABSOLUTE EOSINOPHIL COUNT,0.06,thou/μL,0.02-0.50,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+LYMPHOCYTES,37.1,%,20-40,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+ABSOLUTE LYMPHOCYTE COUNT,1.27,thou/μL,1.0-3.0,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+MONOCYTES,17.0,%,2-10,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+ABSOLUTE MONOCYTE COUNT,0.58,thou/μL,0.2-1.0,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+BASOPHILS,0.3,%,<1-2,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+ABSOLUTE BASOPHIL COUNT,0.01,thou/μL,0.02-0.10,VIJAY SAPRA,ilide.info-cbc-060619-pr_c37b62485f04e9dfc3c585bb6af5e22c.pdf
+Glucose (Random),,mgm%,45-120,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Glucose (Fasting),132.0,mgm%,70-110,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Glucose (PP),,mgm%,Upto 140,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Urea,28.0,mgm%,10-50,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Creatinine,1.2,mgm%,0.5-1.5,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Bilirubin (Total),1.0,mgm%,0.2-1.5,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Bilirubin (Direct),0.4,mgm%,0.0-0.6,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+SGPT,62.0,U/L,0-40,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+SGOT,72.0,U/L,0-40,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Protein(Total),5.7,Gm%,6.0-8.0,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Albumin,2.5,g/dl,3.5-5.5,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Albumin: Globulin Ratio,,,0.7:1,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Alkaline Phosphate,148.0,U/L,Adult: 80-290. Child: 245-770,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Amylase,,U/L,20-96,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Lipase,,U/L,Upto 60,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Uric Acid,4.9,Mgm%,1.5-7.0,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Sodium,130.7,m mol/L,135-155,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Potassium,3.5,m mol/L,3.5-5.5,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Calcium,9.6,mg/dl,8.5-10.5,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Chloride,105.9,m mol/L,98-109,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Cholesterol,100.0,mgm%,130-220,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+Triglycerides,95.0,mgm%,25-150,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+HDL Cholesterol,63.0,mgm%,35-65,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+LDL Cholesterol,18.0,mgm%,30-150,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+VLDL Cholesterol,19.0,mgm%,10-30,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+CK-MB,,U/L,0-25,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+LDH,,U/L,230-460,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+TROPONIN-1,,,,LOUIS PRAKASH RAI,cc8898d38e6b5a27e0d0cb372e67fe2e.jpg
+White Blood Cells,8.99,x10^9/L,3.50-11.00,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Red Blood Cell,4.68,x10^12/L,3.80-4.80,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Haemoglobin,12.5,g/dl,11.5-16.5,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Haematocrit,0.363,L/L,0.370-0.470,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Mean Cell Volume,77.6,fl,80.0-100.0,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Mean Cell HB,26.7,pg,27.0-32.0,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Mean Cell HB Conc.,34.4,g/dl,30.0-36.0,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Red Cell Dist. Width,12.5,%,11.0-15.0,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Platelets,442.0,x10^9/L,150-400,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Neutrophils,4.33,x10^9/L,2.00-8.00,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Lymphocytes,3.98,x10^9/L,1.00-4.00,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Monocytes,0.58,x10^9/L,0.20-1.00,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Eosinophils,0.08,x10^9/L,0.00-0.50,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Basophils,0.02,x10^9/L,0.00-0.20,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Nucleated RBC's,0.0,x10^9/L,,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Glucose,5.0,mmol/1,3.7-6.0,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+HbA1c (IFCC),39.0,mmol/mol,20-42,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Free T4,12.8,PMOL/L,9.0-20.0,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+TSH,5.5,mIU/L,0.35-4.94,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+FSH,6.8,IU/L,,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+LH,8.9,IU/L,,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Oestradiol,141.0,pmol/1,,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+PROLACTIN,263.0,mIU/L,91-475,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Serum Folate,9.1,ug/1,3.8-18.2,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+ESR,11.0,mm 1st Hr,1-20,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Albumin,48.0,g/1,35-50,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Calcium,2.51,mmol/1,2.18-2.60,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Corrected Calcium,2.42,mmol/1,2.20-2.60,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Phosphate,1.04,mmol/1,0.74-1.52,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Alkaline Phosphatase,67.0,I.U./1,30-130,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+C-Reactive Protein,2.0,mg/L,<7,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+FERRITIN,44.0,ug/1,8-247,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Total Protein,85.0,g/1,65-83,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Globulin,37.0,g/1,26-39,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Bilirubin,11.0,umol/1,5-24,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+ALT,19.0,I.U./1,0-55,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Gamma-GT,22.0,I.U./1,8-53,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Cholesterol,7.8,mmol/1,<5.0,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Fasting Triglyceride,3.74,mmol/1,<1.70,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+HDL-Cholesterol,1.12,mmol/1,>1.00,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+LDL-Cholesterol,5.1,mmol/1,<3.0,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+non HDL-C,6.7,mmol/1,<3.8,RAJARAJESHWARI KOMMU,ilide.info-blood-report-pr_a732cf990d920df0586e5fec43de42af.pdf
+Total Cholesterol,10.0,,,,ilide.info-blood-report-pr_80a0516cb73bea9011a2eb2b0ba45ea5.pdf
+Triglycerides,4.7,,,,ilide.info-blood-report-pr_80a0516cb73bea9011a2eb2b0ba45ea5.pdf
+HDL Cholesterol,4.7,,,,ilide.info-blood-report-pr_80a0516cb73bea9011a2eb2b0ba45ea5.pdf
+LDL Cholesterol,4.7,,,,ilide.info-blood-report-pr_80a0516cb73bea9011a2eb2b0ba45ea5.pdf
+Hemoglobin,7.2,,,,ilide.info-blood-report-pr_80a0516cb73bea9011a2eb2b0ba45ea5.pdf
+Hemoglobin,10.0,g/dL,13.0-17.0,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+RBC Count,3.66,million/cmm,4.6 - 6.2,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Hematocrit,30.1,%,40 - 54,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+MCV,82.3,fL,80 - 96,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+MCH,27.3,Pg,,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+MCHC,33.2,,,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+RDW- CV,13.7,%,11 - 35,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+RDW-SD,48.2,fL,35 - 56,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+PLATELET COUNT,116.0,10³/μL,150-410,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+MPV,10.4,fL,6.5-12.0,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+PDW,26.3,%,25.0 - 65.0,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+PCT,1.21,,16,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+TOTAL COUNT (WBC),4.61,103/μL,4.0-10.0,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Neutrophils (%),75.0,%,38-70,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Lymphocytes (%),20.0,%,20 - 45,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Monocytes (%),3.0,%,2 - 8,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Eosinophils (%),2.0,%,1 - 4,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Basophils (%),0.0,%,0-1,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Neutrophils (Abs),3.64,103/μL,,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Lymphocytes (Abs),0.78,10³/μL,,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Monocytes (Abs),0.16,10³/μL,,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Eosinophils (Abs),0.0,10³/μL,,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Basophils (Abs),0.03,/cmm,,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+"NS 1 ANTIGEN, Serum",,,,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+DENGUE - G,,,,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+DENGUE - M,,,,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Prothrombin Time Test,22.14,Seconds,12 - 16,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+INR,1.77,,,MR. TRIJUGEE NARAYAN SHUKLA,ilide.info-test-report-complete-blood-count-cbc-pr_a248b6832e297472942421772ed53857.pdf
+Hemoglobin,12.0,g/dL,11.0-16.0,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+RBC,3.3,10^6/uL,3.5-5.50,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+HCT,36.0,%,37.0-50.0,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+MCV,83.0,fl,82-95,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+MCH,28.0,pg,27-31,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+MCHC,33.0,g/dL,32.0-36.0,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+RDW-CV,12.0,%,11.5-14.5,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+RDW-SD,44.0,fl,35-56,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+WBC,6.7,10^3/uL,4.5-11,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+NEU%,60.0,%,40-70,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+LYM%,30.0,%,20-45,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+MON%,8.0,%,2-10,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+EOS%,2.0,%,1-6,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+BAS%,0.0,%,0-2,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+LYM#,2.0,10^3/UL,1.5-4.0,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+GRA#,4.7,10^3/uL,2.0-7.5,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+PLT,256.0,10^3/uL,150-450,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+ESR,2.0,mm/hr,Up to 15,Ana Betz,dc3f1b80aecfff20f0c68be78a461119.jpg
+HAEMOGLOBIN,10.1,g/dL,12-15,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+PCV,32.0,%,36-46,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+RBC COUNT,4.27,Million/cu.mm,3.8-4.8,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+MCV,74.0,fL,83-101,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+MCH,24.0,pg,27-32,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+MCHC,32.0,g/dL,31.5-34.5,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+R.D.W,18.3,%,,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+TOTAL LEUCOCYTE COUNT (TLC),7400.0,cells/cu.mm,4000-10000,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+NEUTROPHILS,68.0,%,40-80,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+LYMPHOCYTES,23.0,%,20-40,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+EOSINOPHILS,2.0,%,1-6,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+MONOCYTES,7.0,%,2-10,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+BASOPHILS,0.0,%,<1-2,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+"ABSOLUTE LEUCOCYTE COUNT
+NEUTROPHILS",5032.0,Cells/cu.mm,2000-7000,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+LYMPHOCYTES,1702.0,Cells/cu.mm,1000-3000,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+EOSINOPHILS,148.0,Cells/cu.mm,20-500,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+MONOCYTES,518.0,cells/cu.mm,200-1000,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+PLATELET COUNT,309000.0,cells/cu.mm,150000-410000,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+"GLUCOSE, FASTING, NAF PLASMA",174.0,mg/dL,70-100,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+"GLUCOSE, POST PRANDIAL (PP), 2
+HOURS, NAF PLASMA",280.0,mg/dL,70-140,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+"HBA1C, GLYCATED HEMOGLOBIN, WHOLE
+BLOOD-EDTA",10.0,%,,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+"ESTIMATED AVERAGE GLUCOSE (eAG),
+WHOLE BLOOD-EDTA",240.0,mg/dL,,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+COLOUR,,,PALE YELLOW,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+TRANSPARENCY,,,CLEAR,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+pH,5.5,,5-7.5,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+SP. GRAVITY,1.025,,1.002-1.030,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+URINE PROTEIN,,,NEGATIVE,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+GLUCOSE,,,NEGATIVE,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+URINE BILIRUBIN,,,NEGATIVE,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+URINE KETONES (RANDOM),,,NEGATIVE,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+UROBILINOGEN,,,NORMAL,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+BLOOD,,,NEGATIVE,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+NITRITE,,,NEGATIVE,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+LEUCOCYTE ESTERASE,,,NEGATIVE,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+PUS CELLS,3.0,/hpf,0-5,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+EPITHELIAL CELLS,3.0,/hpf,<10,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+RBC,,/hpf,ABSENT,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+CASTS,,,ABSENT,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+CRYSTALS,,,ABSENT,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+CULTURE AND SENSITIVITY URINE,,,NO GROWTH AFTER 48 HOURS,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+PUS CELLS,,/HPF,,Mrs. RAJALAKSHMI.G,ilide.info-lab-report-sample-blood-pr_abc0d047d65efca8a733d4a814c32d82.pdf
+TSH 3RD GENERATION,2.27,μIU/mL,0.27 - 4.20,DILIP PRATAP,ilide.info-blood-report-pr_b310aad88c49db4059bd991f192dfb45.pdf
+25-HYDROXYVITAMIN D,16.9,ng/mL,"< 20.0 Low Deficiency:
+20.0 - 30.0 Insufficiency:
+30.0 - 100.0 Sufficiency:
+> 100.0 Toxicity",DILIP PRATAP,ilide.info-blood-report-pr_b310aad88c49db4059bd991f192dfb45.pdf
+VITAMIN B12,214.9,pg/mL,197 - 771,DILIP PRATAP,ilide.info-blood-report-pr_b310aad88c49db4059bd991f192dfb45.pdf
+CHOLESTEROL,213.0,mg/dL,"High 200 Desirable
+200 - 239 Borderline High
+> or = 240 High",DILIP PRATAP,ilide.info-blood-report-pr_b310aad88c49db4059bd991f192dfb45.pdf
+TRIGLYCERIDES,125.0,mg/dL,"Normal <150
+150 - 199 Borderline High
+200 - 499 High
+> or = 500 Very High",DILIP PRATAP,ilide.info-blood-report-pr_b310aad88c49db4059bd991f192dfb45.pdf
+HDL CHOLESTEROL,71.0,mg/dL,"< 40 Low
+> or = 60 High",DILIP PRATAP,ilide.info-blood-report-pr_b310aad88c49db4059bd991f192dfb45.pdf
+DIRECT LDL CHOLESTEROL,135.0,mg/dL,"<100 Optimal
+100-129 Near optimal/above optimal
+130-159 Borderline high
+160-189 High
+> or = 190 Very high",DILIP PRATAP,ilide.info-blood-report-pr_b310aad88c49db4059bd991f192dfb45.pdf
+CHOL/HDL RATIO,3.0,,"3.3-4.4 Low Risk
+4.5 - 7.0 Average Risk
+7.1 - 11.0 Moderate Risk
+> 11.0 High Risk",DILIP PRATAP,ilide.info-blood-report-pr_b310aad88c49db4059bd991f192dfb45.pdf
+LDL/HDL RATIO,1.9,,"0.5 - 3.0 Desirable/Low Risk
+3.1 - 6.0 Borderline/Moderate Risk
+> 6.0 High Risk",DILIP PRATAP,ilide.info-blood-report-pr_b310aad88c49db4059bd991f192dfb45.pdf
+VERY LOW DENSITY LIPOPROTEIN,25.0,mg/dL,< or = 34,DILIP PRATAP,ilide.info-blood-report-pr_b310aad88c49db4059bd991f192dfb45.pdf
+Hb,9.5,g/dl,16,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+Total RBC,,x10^12/1,4 - 6,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+HCT,,%,30 - 46,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+MCV,,fl,70 - 95,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+MCH,20.0,pg,32,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+MCHC,32.0,g/dl,25-35,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+Platelet Count,295.0,x10^9/1,130 - 400,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+WBC Count (TLC),6.6,x10^9/1,4-11,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+Neutrophils,56.0,%,30 - 75,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+Lymphocytes,34.0,%,17 - 50,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+Monocytes,8.0,%,2 - 10,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+Eosinophils,2.0,%,1 - 6,sohaib,ilide.info-blood-report-pr_0f79618c92430ffd441f55a1cfda02cd.pdf
+HAEMOGLOBIN,11.7,g/dl,12.0 - 15.0,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+PACKED CELL VOLUME (PCV),37.4,,36 - 46,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+R.B.C. Count,4.5,x10^12/1,3.8 - 4.8,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+MCV,83.1,fL,83 - 101,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+MCH,26.0,pg,27 - 32,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+MCHC,31.3,g/dl,31.5 - 34.5,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+RDW,20.4,,11.60 - 14.0,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+NRBC,0.0,,,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+TOTAL LEUCOCYTE COUNT,8.1,x10^9/1,4.0 - 10.0,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+NEUTROPHILS,44.9,,40 - 80,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+LYMPHOCYTES,39.8,,20 - 40,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+MONOCYTES,5.8,,2 - 10,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+EOSINOPHILS,8.9,,1 - 6,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+BASOPHILS,0.6,,0 - 1,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+NEUTROPHILS,3.64,x10^9/1,2 - 7,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+LYMPHOCYTE,3.22,x10^9/1,1.0 - 3.0,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+MONOCYTE,0.47,x10^9/1,0.2 - 0.5,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+EOSINOPHILS,0.72,x10^9/1,0.02 - 0.1,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+BASOPHIL,0.05,x10^9/1,0.02 - 0.1,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+PLATELET COUNT,217.0,x10^9/1,150 - 410,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+THYROID STIMULATING HORMONE (TSH),3.09,uIU/ml,0.27-5.5 μIU/ml,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+SERUM FERRITIN,13.1,ng/mL,15.0 - 200.0,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+SERUM IgE LEVELS,621.3,Iu/mL,< 100,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200 (1).pdf
+Total Cholesterol,156.0,,,,2022_-TEST_REPORTS-_NEW.pdf
+Triglycerides,4446011147.0,,,,2022_-TEST_REPORTS-_NEW.pdf
+HDL Cholesterol,4446011147.0,,,,2022_-TEST_REPORTS-_NEW.pdf
+LDL Cholesterol,4446011147.0,,,,2022_-TEST_REPORTS-_NEW.pdf
+VLDL Cholesterol,4446011147.0,,,,2022_-TEST_REPORTS-_NEW.pdf
+Hemoglobin,20.44,,,,2022_-TEST_REPORTS-_NEW.pdf
+Serum Anti HCV,0.19,,">= 1.0 means Reactive, <0.8 means Non-Reactive, between 0.8 to 0.9 means Borderline",KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+Serum HBsAg,0.67,,">= 1.0 means Reactive, <0.8 means Non-Reactive, between 0.8 to 0.9 means Borderline",KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+Hb (Hemoglobin),14.9,g/dl,13.0-17.0,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+Hct,46.3,%,40.0-50.0,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+RBC,5.32,10E12,4.5-5.5,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+MCV,87.1,fl,80.0-100.0,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+MCH,28.1,pg,27.0-34.0,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+MCHC,32.3,gm/dl,31.0-36.0,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+RDW-CV,14.2,%,Less than 16,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+WBC (TLC),8.0,x10 E 9/L,4.0-10.0,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+Neutrophils,54.6,%,40.0-80.0,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+Lymphocytes,36.4,%,20.0-40.0,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+Monocytes,5.9,%,2.0-10.0,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+Eosinophils,2.6,%,1.0-6.0,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+Basophils,0.5,%,0-3,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+Platelet Count,228.0,X10E 9/L,150.0-450.0,KHALID,ilide.info-blood-test-pr_1682b457a4b7533ee17ae170c7289c1d.pdf
+Total Cholesterol,200.0,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_a44b072fcef08c726bf6ee0aa9df4eca.pdf
+Triglycerides,2014.0,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_a44b072fcef08c726bf6ee0aa9df4eca.pdf
+HDL Cholesterol,2014.0,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_a44b072fcef08c726bf6ee0aa9df4eca.pdf
+LDL Cholesterol,2014.0,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_a44b072fcef08c726bf6ee0aa9df4eca.pdf
+VLDL Cholesterol,2014.0,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_a44b072fcef08c726bf6ee0aa9df4eca.pdf
+Hemoglobin,12.8,g/dL,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_a44b072fcef08c726bf6ee0aa9df4eca.pdf
+RBC Count,12.8,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_a44b072fcef08c726bf6ee0aa9df4eca.pdf
+Hemoglobin,11.2,g/dL,12.0-14.0,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Eritrosit,3.66,10^6/μL,4.20-5.40,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Hematokrit,33.3,%,37.0-43.0,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+MCV,91.0,fL,82.0-92.0,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+MCH,30.6,pg,27.0-31.0,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+MCHC,33.6,g/dL,32.0-37.0,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+RDW - CV,13.3,%,11.5-14.5,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Laju endap darah,65.0,mm,0-15,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Trombosit,184000.0,/μL,,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Leukosit,5370.0,/μL,,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Retikulosit,0.32,% dari jumlah eritrosit,,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Basofil,0.0,%,1-3,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Eosinofil,2.0,%,2-6,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Neutrofil batang,0.0,%,20-40,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Neutrofil segmen,90.0,%,50-70,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Limfosit,6.0,%,20-40,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Monosit,2.0,%,2-8,Ibu. MARIA HADI,cebd10f1f6dcd2f5d7824d28af3048e4.jpg
+Hemoglobin,14.5,g/dL,13.0-16.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+RBC Count,4.79,million/cmm,4.5-5.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Hematocrit,43.3,%,40-49,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+MCV,90.3,fL,83-101,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+MCH,30.2,pg,27.1-32.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+MCHC,33.4,g/dL,32.5-36.7,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+RDW CV,13.6,%,11.6-14,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+WBC Count,10570.0,/cmm,4000-10000,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Neutrophils,7716.0,/cmm,2000-6700,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Lymphocytes,2008.0,/cmm,1100-3300,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Eosinophils,211.0,/cmm,0-400,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Monocytes,634.0,/cmm,200-700,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Basophils,0.0,/cmm,0-100,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Platelet Count,150000.0,/cmm,150000-410000,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+MPV,14.0,fL,7.5-10.3,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+ESR,7.0,mm/1hr,0-14,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+ABO Type,A,,,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Rh (D) Type,Positive,,,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Cholesterol,189.0,mg/dL,"Desirable <200
+Borderline High: 200-239
+High: >240",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Triglyceride,168.0,mg/dL,"Normal <150
+Borderline: 150-199
+High: 200-499
+Very High >500",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+HDL Cholesterol,60.0,mg/dL,"Low: <40.0
+High: >60.0",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Direct LDL,100.39,mg/dL,"Optimal: <100
+Near to above Optimal:
+100-129
+Borderline High: 130-159
+High: 160-189
+Very High: 190",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+VLDL,33.6,mg/dL,15-35,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+CHOL/HDL Ratio,3.1,,Up to 5.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+LDL/HDL Ratio,1.7,,Up to 3.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Fasting Blood Sugar,141.0,mg/dL,74-106,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+HbA1c,7.1,%,"For Screening:
+Diabetes: >6.5%
+Pre-Diabetes: 5.7% -
+6.4%
+Non-Diabetes: < 5.7%
+For Diabetic Patient:
+Poor Control : > 7.0 %
+Good Control : 6.0-7.0 %",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Mean Blood Glucose,157.07,mg/dL,,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+T3-Triiodothyronine,1.01,ng/mL,0.58-1.59,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+T4-Thyroxine,7.84,mg/mL,4.87-11.72,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+TSH - Thyroid Stimulating Hormone,0.8199,microlU/mL,0.35-4.94,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Microalbumin (per urine volume),10.5,mg/L,< 16.7,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Total Protein,7.0,g/dL,6.3-8.2,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Albumin,4.2,g/dL,3.5-5.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Globulin,2.8,g/dL,2.3-3.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+A/G Ratio,1.5,,1.3-1.7,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Total Bilirubin,0.7,mg/dL,0.2-1.3,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Conjugated Bilirubin,0.3,mg/dL,0.0-0.3,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Unconjugated Bilirubin,0.2,mg/dL,0.0-1.1,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Delta Bilirubin,0.2,mg/dL,0.0-0.2,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Iron,103.0,micro g/dL,49-181,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Total Iron Binding Capacity (TIBC),352.0,,261-462,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Transferrin Saturation,29.26,%,20-50,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+"Homocysteine, Serum",23.86,micromol/L,6.0-14.8,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+"Creatinine, Serum",0.83,mg/dL,0.66-1.25,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Urea,18.0,mg/dL,19.3-43.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Blood Urea Nitrogen,8.41,mg/dL,9.0-20.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Uric Acid,4.9,mg/dL,3.5-8.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Calcium,9.1,mg/dL,8.4-10.2,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+SGPT,48.0,U/L,0-50,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+SGOT,27.0,U/L,17-59,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Sodium (Na+),143.0,mmol/L,136-145,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Potassium (K+),4.9,mmol/L,3.5-5.1,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Chloride (Cl-),105.0,mmol/L,98-107,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+25(OH) Vitamin D,8.98,ng/mL,"Deficiency : <10
+Insufficiency: 10-30
+Sufficiency : 30-100
+Toxicity
+: >100",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Vitamin B12,,pg/mL,187-833,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+"PSA-Prostate Specific Antigen, Total",0.573,ng/mL,0-4,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+IgE,492.3,IU/mL,0-87,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+HIVI & II Ab/Ag with P24 Ag,0.07,S/Co,"Non Reactive <1.0
+Reactive>1.0",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+HBsAg,0.29,S/Co,"Non Reactive : <1.0
+Reactive: >1.0",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Hb A,84.4,%,96.8-97.8,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Hb A2,2.8,%,2.2-3.2,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+P2 Peak,5.5,%,0.0-1.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+P3 Peak,5.2,%,,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Foetal Hb,0.3,%,0.0-1.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+pH,6.0,,4.6-8.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Specific Gravity,1.03,,1.005-1.030,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Urine Glucose,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Urine Protein,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Bilirubin,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Urobilinogen,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Urine Ketone,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Nitrite,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Pus Cells,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Red Cells,,/hpf,0-2,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Epithelial Cells,,/hpf,,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Casts,,/hpf,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Crystals,,/hpf,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Amorphous Material,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked (1).pdf
+Haemoglobin,16.3,g/dl,13-17,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Hematocrit,49.0,%,40-50,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Total WBC Count,6520.0,cells/cumm,4000-10000,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+RBC Count,5.34,million/cu mm,4.5-5.5,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+MCV,92.0,fl,83-101,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+MCH,31.0,pg,27-32,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+RDW,13.3,%,11.6 - 14,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+MCHC,33.0,g/dl,31.5-34.5,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Platelet Count,292000.0,/cumm,150000-410000,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+MPV,9.2,fl,7.5 - 12.0,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+ESR,2.0,mm/Hr,0-14,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Absolute Neutrophil Count,3.6,X10^3/uL,2.0 - 7.0,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Absolute Lymphocyte Count,2.3,X10^3/uL,1.0-3.0,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Absolute Monocyte Count,0.4,X10^3/uL,0.2-1.0,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Absolute Eosinophil Count,0.2,X10^3/uL,0.0-0.5,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Absolute Basophil Count,0.0,X10^3/ul,0.02 -0.1,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Neutrophil,55.0,%,20-40,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Lymphocyte,36.0,%,20-40,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Monocyte,7.0,%,2-10,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Eosinophil,2.0,%,1-6,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Basophil,0.0,%,1-2,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Urine PH,5.0,,4.8 -7.4,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Specific Gravity,1.015,,1.016-1.022,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Glucose,,,NIL (< 30 mg/dL),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Albumin,,,NIL (< 10 mg/dL),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Urobilinogen,,,NORMAL (< 1 mg/dL),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Bilirubin,,,NEGATIVE(<0.2 mg/dL),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Ketone,,,NEGATIVE(< 5 mg/dL),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Nitrite,,,NEGATIVE,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Red Blood Cells,0.2,/HPF,0-2.3,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+White Blood Cells,0.4,/HPF,0-2.7,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Calcium Oxalate Monohydrate,0.0,/HPF,0-1.4,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Calcium Oxalate Dihydrate Crystals,0.0,/HPF,0-1.4,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Cast Hyaline,0.0,/HPF,0 - 1.4,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Cast Pathological,0.0,/HPF,0 -0.5,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Non Squamous Epithelial Cells,0.0,/HPF,0-0.3,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Squamous Epithelial Cells,0.0,/HPF,0-0.5,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Yeast,0.0,/HPF,0-1.1,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Bacteria,0.0,/HPF,0 -0.7,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Bacteria Cocci,19.7,/HPF,0 - 29.5,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Bacteria Rods,19.2,/HPF,0 - 29.5,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Mucus,0.5,/HPF,0 - 29.5,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Urine Colour,,,,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Urine Appearance,,,,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Glucose(Fasting),118.0,mg/dl,70-100,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Glucose(2hr),172.0,mg/dl,< 140,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+HbA1c,6.5,%,"Normal:<5.6
+Pre Diabetes: 5.7-6.4
+Diabetes: > 6.4",RAMAKRISHNAN V,128441_HC873738_LR.pdf
+EAG,139.85,mg/dL,,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Total Cholesterol,145.0,mg/dl,"Desirable < 200
+Borderline high : 200 - 239
+High > 239",RAMAKRISHNAN V,128441_HC873738_LR.pdf
+HDL Cholesterol,40.0,mg/dl,"Desirable > 45
+Low: < 40",RAMAKRISHNAN V,128441_HC873738_LR.pdf
+LDL Cholesterol,104.0,mg/dl,< 100,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+VLDL,21.0,mg/dl,0-30,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Triglycerides,104.0,mg/dl,< 150,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Total Chol/HDL,3.63,,(< 3.5),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Bilirubin Total,0.65,mg/dl,0.2 - 1.2,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Bilirubin Direct,0.2,mg/dl,0.0-0.2,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Bilirubin Indirect,0.45,mg/dl,0.2 - 1.0,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+ALP,89.0,U/L,43-115,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+ALT,21.0,U/L,< 45,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+AST,15.0,U/L,< 35,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+GGT,38.0,U/L,< 70,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Total Protein,7.5,g/dl,(6.5 - 7.8),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Albumin,4.3,g/dl,(3.3-5.3),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Globulins,3.2,g/dl,(2.5-3.5),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+A/G Ratio,1.34,,> 1.0,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Free T3,2.87,pg/ml,(2.0-4.4),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Free T4,1.87,ng/dl,(0.93 -1.7),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+TSH,0.47,μIU/ml,(0.27 - 4.2),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Vitamin D,12.0,ng/ml,"Deficiency Below 10ng/ml
+Insufficient: 10 - 30ng/ml
+Sufficient 30 - 100 ng/ml
+Toxicity : Above 100 ng/ml",RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Vitamin B12,124.1,pg/ml,(174-878),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Calcium,9.4,mg/dL,(8.5 - 10.5),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Urea,15.0,mg/dl,15-45,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Creatinine,0.81,mg/dl,0.72 -1.18,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Uric Acid,4.8,mg/dl,3.5-7.2,RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Sodium,136.0,mmol/L,(136-145),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Potassium,4.3,mmol/L,(3.5-5.1),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Chloride,103.0,mmol/L,(98-107),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Bicarbonate,20.0,mmol/L,(22-28),RAMAKRISHNAN V,128441_HC873738_LR.pdf
+Total RBC (红血球计数),4.76,x10^6/uL,4.50 -6.00,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Haemoglobin (Hb) (mm),143.0,g/L,130-175,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Haematocrit (PCV) (量),0.44,L,0.40 -0.50,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+MCV,92.0,fl,82-98,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+MCH (平均红血球血色蛋白),30.0,pg,27-33,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+MCHC (平均红血球血色蛋白浓度),330.0,g/L,320-350,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+RDW (红血球体积分布宽度),11.6,%,11.6 - 14.0,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Total WBC (白血球计数),5.6,x10^9 /L,4.08 11.37,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Neutrophils % (+),45.0,%,40-80,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Lymphocytes % (*),47.0,%,20-40,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Monocytes % (),5.0,%,≤10,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Eosinophils % (*),3.0,%,≤6,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Basophils % (1),0.0,%,≤2,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Platelet count (),303.0,x10^9/L,150-410,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Neutrophils (嗜中性球),2.5,x10^9/L,2.0 -7.0,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Lymphocytes (淋巴球),2.6,x10^9/L,1.0 4.8,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Monocytes (单核球),0.3,x10^9/L,0 -1.0,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Eosinophils (嗜伊紅球),0.2,x10^9/L,0-0.8,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Basophils (嗜咸基性球),0.0,x10^9/L,0 -0.1,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+ESR (紅血球沉降率),20.0,mm/hr,0-16,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Sodium (鈉),138.0,mmol/L,135-145,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Potassium (),4.3,mmol/L,3.5-5.1,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Chloride (氯),101.0,mmol/L,98-107,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Urea (尿素),2.4,mmol/L,3.2-7.4,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Creatinine (肌酸肝),75.1,umol/L,,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+eGFR (2009 CKD-EPI) (濾清率估計),111.0,mL/min/1.73m^2,63.6 - 110.5,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+"Calcium, Total (5)",2.33,mmol/L,2.10 -2.55,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Phosphate (血清磷濃度),1.23,mmol/L,0.74 - 1.52,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Uric Acid (尿酸),0.34,mmol/L,0.21-0.42,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Total Protein (總蛋白量),77.0,g/L,64-83,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Albumin (白蛋白),48.0,g/L,35-52,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Globulin (球蛋白),29.0,g/L,21-40,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+A/G Ratio (ÓKÍÓŁ*),1.7,,1.0-2.2,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+"Bilirubin, Total (I)",20.7,umol/L,3.4 - 20.5,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+ALT/SGPT (Z),15.0,U/L,0-55,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+AST/SGOT (-),18.0,U/L,5-34,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+ALP (鹼性磷酸),64.0,U/L,40-150,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Gamma GT (Gamma-移),24.0,U/L,12 - 64,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Total Cholesterol (),6.37,mmol/L,"Desirable <5.20
+Borderline high 5.20 -6.19
+High ≥ 6.20",JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Triglycerides (EST),0.81,mmol/L,<1.70,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+HDL (良好高脂膽固醇),2.33,mmol/L,"Major risk <1.00
+Negative risk > 1.55",JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+LDL (不良低脂膽固醇),3.69,mmol/L,"Optimal < 2.60
+Near optimal 2.60 -3.34
+Borderline 3.35 - 4.14
+High 4.15 -4.89
+Very high ≥4.90",JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Non-HDL (非高脂膽固醇),4.04,mmol/L,"Optimal <3.35
+Near optimal 3.35 - 4.14
+Borderline 4.14-4.89
+High 4.90-5.69
+Very high ≥ 5.70",JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Total Chol/HDL (脂膽固醇),2.7,,< 4.5,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+HbA1c (NGSP),4.7,%,"Normal: <5.7
+Pre-diabetes: 5.7 - 6.2
+Diabetes: ≥ 6.3",JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+HbA1c (IFCC),28.0,mmol/mol,"Normal: <39
+Pre-diabetes: 39 - 44
+Diabetes: ≥ 45",JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Glucose (Plasma) (*),4.9,mmol/L,"Fasting: < 6.1
+Random: <7.8",JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+TSH (甲狀腺刺激素),1.7,mIU/L,0.35 -4.94,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Free T4 (**),12.61,pmol/L,9.01-19.05,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+25-OH Vitamin D,75.0,nmol/L,"Deficient 50
+Insufficient 50 - 74
+Sufficient 75 - 250
+Possible Toxicity > 250",JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Total PSA (前列腺特异性抗原),0.89,ug/L,< 4.0,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+AFP (肝胎蛋白質),1.23,IU/mL,≤ 12.45,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Rheumatoid Factor (節炎因子),20.0,IU/mL,<30.0,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Specific Gravity (I),1.015,,1.005 - 1.030,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+pH (酸鹼反應),6.5,,5.0-8.5,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+RBC (紅血球),0.0,/HPF,0-3,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Pus Cells (白血球),0.0,/HPF,0-5,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Bacteria (細菌),0.0,/HPF,Few/Occasional,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Epithelia (上皮細胞),0.0,/HPF,0-5,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Casts (圓柱體),0.0,/LPF,0-1,JONG CHEE MING,ilide.info-blood-report-pr_580e5b4c239df68e45c267c3393f4245.pdf
+Hemoglobin,14.5,g/dL,13.0-16.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+RBC Count,4.79,million/cmm,4.5-5.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Hematocrit,43.3,%,40-49,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+MCV,90.3,fL,83-101,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+MCH,30.2,pg,27.1-32.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+MCHC,33.4,g/dL,32.5-36.7,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+RDW CV,13.6,%,11.6-14,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+WBC Count,10570.0,/cmm,4000-10000,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Neutrophils,7716.0,/cmm,2000-6700,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Lymphocytes,2008.0,/cmm,1100-3300,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Eosinophils,211.0,/cmm,0-400,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Monocytes,634.0,/cmm,200-700,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Basophils,0.0,/cmm,0-100,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Platelet Count,150000.0,/cmm,150000-410000,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+MPV,14.0,fL,7.5-10.3,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+ESR,7.0,mm/1hr,0-14,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+ABO Type,A,,,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Rh (D) Type,Positive,,,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Cholesterol,189.0,mg/dL,"Desirable <200
+Borderline High: 200-239
+High: >240",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Triglyceride,168.0,mg/dL,"Normal <150
+Borderline: 150-199
+High: 200-499
+Very High >500",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+HDL Cholesterol,60.0,mg/dL,"Low: <40.0
+High: >60.0",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Direct LDL,100.39,mg/dL,"Optimal: <100
+Near to above Optimal:
+100-129
+Borderline High: 130-159
+High: 160-189
+Very High: 190",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+VLDL,33.6,mg/dL,15-35,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+CHOL/HDL Ratio,3.1,,Up to 5.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+LDL/HDL Ratio,1.7,,Up to 3.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Fasting Blood Sugar,141.0,mg/dL,74-106,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+HbA1c,7.1,%,"For Screening:
+Diabetes: >6.5%
+Pre-Diabetes: 5.7% -
+6.4%
+Non-Diabetes: < 5.7%
+For Diabetic Patient:
+Poor Control : > 7.0 %
+Good Control : 6.0-7.0 %",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Mean Blood Glucose,157.07,mg/dL,,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+T3-Triiodothyronine,1.01,ng/mL,0.58-1.59,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+T4-Thyroxine,7.84,mg/mL,4.87-11.72,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+TSH - Thyroid Stimulating Hormone,0.8199,microlU/mL,0.35-4.94,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Microalbumin (per urine volume),10.5,mg/L,< 16.7,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Total Protein,7.0,g/dL,6.3-8.2,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Albumin,4.2,g/dL,3.5-5.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Globulin,2.8,g/dL,2.3-3.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+A/G Ratio,1.5,,1.3-1.7,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Total Bilirubin,0.7,mg/dL,0.2-1.3,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Conjugated Bilirubin,0.3,mg/dL,0.0-0.3,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Unconjugated Bilirubin,0.2,mg/dL,0.0-1.1,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Delta Bilirubin,0.2,mg/dL,0.0-0.2,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Iron,103.0,micro g/dL,49-181,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Total Iron Binding Capacity (TIBC),352.0,,261-462,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Transferrin Saturation,29.26,%,20-50,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+"Homocysteine, Serum",23.86,micromol/L,6.0-14.8,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+"Creatinine, Serum",0.83,mg/dL,0.66-1.25,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Urea,18.0,mg/dL,19.3-43.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Blood Urea Nitrogen,8.41,mg/dL,9.0-20.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Uric Acid,4.9,mg/dL,3.5-8.5,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Calcium,9.1,mg/dL,8.4-10.2,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+SGPT,48.0,U/L,0-50,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+SGOT,27.0,U/L,17-59,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Sodium (Na+),143.0,mmol/L,136-145,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Potassium (K+),4.9,mmol/L,3.5-5.1,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Chloride (Cl-),105.0,mmol/L,98-107,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+25(OH) Vitamin D,8.98,ng/mL,"Deficiency : <10
+Insufficiency: 10-30
+Sufficiency : 30-100
+Toxicity
+: >100",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Vitamin B12,,pg/mL,187-833,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+"PSA-Prostate Specific Antigen, Total",0.573,ng/mL,0-4,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+IgE,492.3,IU/mL,0-87,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+HIVI & II Ab/Ag with P24 Ag,0.07,S/Co,"Non Reactive <1.0
+Reactive>1.0",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+HBsAg,0.29,S/Co,"Non Reactive : <1.0
+Reactive: >1.0",Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Hb A,84.4,%,96.8-97.8,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Hb A2,2.8,%,2.2-3.2,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+P2 Peak,5.5,%,0.0-1.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+P3 Peak,5.2,%,,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Foetal Hb,0.3,%,0.0-1.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Urine pH,6.0,,4.6-8.0,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Specific Gravity,1.03,,1.005-1.030,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Urine Glucose,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Urine Protein,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Bilirubin,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Urobilinogen,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Urine Ketone,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Nitrite,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Pus Cells,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Red Cells,,/hpf,0-2,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Epithelial Cells,,/hpf,,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Casts,,/hpf,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Crystals,,/hpf,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Amorphous Material,,,Absent,Lyubochka Svetka,sterling-accuris-pathology-sample-report-unlocked.pdf
+Uric Acid,5.2,mg/dL,3.5 - 7.2 mg/dL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+TSH,6.014,μIU/mL,0.55-4.78 μIU/mL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Urea,15.0,mg/dL,17 - 43 mg/dL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Creatinine,0.6,mg/dL,0.7 - 1.2 mg/dL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Sodium,139.0,mmol/L,136 - 146 mmol/L,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Potassium,3.99,mmol/L,3.5 - 5.1 mmol/L,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Chlorides,102.0,mmol/L,101 - 109 mmol/L,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Plasma Glucose (Random),79.0,mg/dL,70 - 140 mg/dL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+CEA,4154.0,ng/mL,"Non-Smokers <3.8 ng/mL
+Smokers < 5.5 ng/mL",MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Haemoglobin,10.9,g/dL,13.0 - 17.0 g/dL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Total RBC Count,3.69,millions/cumm,4.5 - 5.5 millions/cumm,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Packed Cell Volume / Hematocrit,33.4,Vol%,40.0 - 50.0 Vol%,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+MCV,90.5,fl,83.0 - 101.0 fl,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+MCH,29.4,pg,27-32 pg,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+MCHC,32.5,gm/dL,31.5-34.5 gm/dL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+RDW,19.3,%,11.6 - 14.0 %,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Total WBC Count,8500.0,Cells/cumm,4000 - 10000 Cells/cumm,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Neutrophils,78.0,%,40 - 80 %,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Lymphocytes,9.0,%,20-40 %,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Eosinophils,3.0,%,1 - 6 %,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Monocytes,10.0,%,2-10 %,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Basophils,0.0,%,0-2 %,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Absolute Neutrophil Count,6630.0,Cells/cumm,2000 - 7000 Cells/cumm,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Absolute Lymphocyte Count,765.0,Cells/cumm,1000 - 3000 Cells/cumm,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Absolute Eosinophil Count,255.0,Cells/cumm,20-500 Cells/cumm,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Absolute Monocyte Count,850.0,Cells/cumm,200 - 1000 Cells/cumm,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Platelet Count,230000.0,/cumm,150000 - 410000 /cumm,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+RBC,,,Normocytic Normochromic,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+WBC,,,"Normal in morphology, maturity and distribution",MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Platelets,,,Adequate,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Total Bilirubin,0.3,,0.3 - 1.2,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Conjugated Bilirubin,0.1,mg/dL,Less than 0.2 mg/dL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Unconjugated Bilirubin,0.2,mg/dL,0.3 - 1.00 mg/dL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+ALT/SGPT,11.0,U/L,0 - 50 U/L,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+AST/SGOT,23.0,U/L,0 - 50 U/L,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Alkaline Phosphatase,113.0,U/L,30 - 120 U/L,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Total Protein (TP),5.2,g/dL,6.6-8.3 g/dL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Albumin,3.2,g/dL,3.5 - 5.2 g/dL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Globulin,2.0,g/dL,1.8 - 3.6 g/dL,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Albumin/Globulin (A/G) Ratio,1.6,,0.8-2.0,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Gamma-Glutamyl Transferase (GGT),40.0,U/L,0-55 U/L,MR. K SHESHUBU,ilide.info-blood-tests-report-pr_78b13a4094a8efcd5bf9e9296cbc41db.pdf
+Haemoglobin,14.7,g/dL,13.0-17.0 g/dL,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+RBC,4.79,mil/cmm,4.5-5.5 mil/cmm,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+PCV,43.0,%,40-50 %,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+MCV,89.7,fl,80-100 fl,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+MCH,30.6,pg,27-32 pg,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+MCHC,34.1,g/dL,31.5-34.5 g/dL,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+RDW,12.3,%,11.6-14.0 %,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+WBC Total Count,10610.0,/cmm,4000-10000/cmm,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Lymphocytes,46.0,%,20-40 %,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Absolute Lymphocytes,4880.6,/cmm,1000-3000/cmm,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Monocytes,5.7,%,2-10 %,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Absolute Monocytes,604.8,/cmm,200-1000/cmm,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Neutrophils,39.2,%,40-80 %,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Absolute Neutrophils,4159.1,/cmm,2000-7000/cmm,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Eosinophils,8.0,%,1-6 %,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Absolute Eosinophils,848.8,/cmm,20-500/cmm,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Basophils,1.1,%,0.1-2 %,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Absolute Basophils,116.7,/cmm,20-100/cmm,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Platelet Count,315000.0,/cmm,150000-400000/cmm,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+MPV,7.7,fl,6-11 fl,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+PDW,10.7,%,11-18 %,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+ESR,90.0,mm at 1 hr,2-15 mm at 1 hr,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Blood Sugar Random,89.6,mg/dl,Random: <200 mg/dl,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Specific Gravity,1.025,,1.002-1.035,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Reaction (pH),6.0,,5-8,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+(WBC) Pus cells / hpf,1.5,/hpf,0-5/hpf,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Red Blood Cells / hpf,0.0,/hpf,0-2/hpf,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Epithelial Cells / hpf,3.0,/hpf,0-5/hpf,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+Bacteria/ hpf,9.0,/hpf,0-20/hpf,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+"SALMONELLA TYPHI ""O""",0.0,,Negative,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+"SALMONELLA TYPHI ""H""",0.0,,Negative,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+"SALMONELLA PARATYPHI""A""",0.0,,Negative,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+"SALMONELLA PARATYPHI ""B""",0.0,,Negative,MR.ECODE 261923 GIBSON VAZ,quiz14190542_c30bb385-3b36-4c25-a804-a45f21b2c9e0.pdf
+CRP (C-REACTIVE PROTEINS),98.8,mg/L,"< 5 mg/L NEGATIVE
+> 5 mg/L POSITIVE",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+ANTI HIVI & II ANTIBODY,,,Non-reactive: <1.0,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+HBS AG,0.19,,NEGATIVE,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+ANTI HCV ANTIBODY,0.08,,"<1.0: Non reactive
+>1.0: Reactive",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CRP (C-REACTIVE PROTEINS),91.3,mg/L,"< 5 mg/L NEGATIVE
+> 5 mg/L POSITIVE",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CRP (C-REACTIVE PROTEINS),54.1,mg/L,"< 5 mg/L NEGATIVE
+> 5 mg/L POSITIVE",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CRP (C-REACTIVE PROTEINS),24.4,mg/L,"< 5 mg/L NEGATIVE
+> 5 mg/L POSITIVE",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CRP (C-REACTIVE PROTEINS),13.0,mg/L,"<5 mg/L NEGATIVE
+> 5 mg/L POSITIVE",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CRP (C-REACTIVE PROTEINS),8.2,mg/L,"<5 mg/L NEGATIVE
+> 5 mg/L POSITIVE",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CRP (C-REACTIVE PROTEINS),4.8,mg/L,"<5 mg/L NEGATIVE
+> 5 mg/L POSITIVE",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CRP (C-REACTIVE PROTEINS),3.8,mg/L,"< 5 mg/L NEGATIVE
+> 5 mg/L POSITIVE",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CT SCAN CHEST (PLAIN) HRCT CHEST,,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+BED SIDE 2D ECHO,,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CUE(COMPLETE URINE EXAMINATION),,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+BLOOD GROUPING AND RH,,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CBP(COMPLETE BLOOD PICTURE),,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+PT (PROTHROMBIN TEST) WITH INR,,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+APTT(ACTIVATED PARTIAL THROMBOPLASTIN TIME),,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+TC (TOTAL LEUCOCYTE COUNT),12400.0,Cells/cumm,"4,000-11,000",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+TC (TOTAL LEUCOCYTE COUNT),11200.0,Cells/cumm,"4,000 - 11,000",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+TC (TOTAL LEUCOCYTE COUNT),8800.0,Cells/cumm,"4,000 11,000",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CBP(COMPLETE BLOOD PICTURE),,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CBP(COMPLETE BLOOD PICTURE),,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CBP(COMPLETE BLOOD PICTURE),,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CBP(COMPLETE BLOOD PICTURE),,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM FERRITIN,706.03,ug/L,"Adult Male: 20 - 250 ug/L
+Adult Female: 10 - 120 ug/L
+Children:
+Up to 1 month: 6 - 400 ug/L
+1 to 6 months: 6 - 410 ug/L
+6 to 12 months: 6 - 80 ug/L
+1 to 5 years: 6 - 60 ug/L
+6 to 19 years: 6 - 320 ug/L",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+LDH,297.0,U/L,< 248 U/L,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+PCTQ (PROCALCITONIN),0.051,ng/ml,Normal range:0.025-0.065 ng/ml.,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+HBA1C (GLYCOSYLATED HAEMOGLOBIN),6.8,%,"Non Diabetic 5-6
+Good Control:6 - 7
+Fair Control:7-8%
+Poor Control:8 - 10
+Very Poor Control:> 10",Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+UREA,37.0,mg/dl,17.0 - 43.0 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM CREATININE,0.82,mg/dL,0.84-1.25 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+eGFR,108.0,mL/min,90-120,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM MAGNESIUM,2.4,mg/dl,1.8 - 2.6 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM ELECTROLYTES,,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+LFT(LIVER FUNCTION TEST),,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM PHOSPHOROUS,1.5,mg/dl,2.5-4.5 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM CALCIUM,8.7,mg/dl,8.8 -10.6 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+TSH (THYROID STIMULATING HORMONE),0.14,ulU/ml,0.34-5.60,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+D DIMER,369.1,,0 - 250 ng/ml,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+RPG (RANDOM PLASMA GLUCOSE),284.0,mg/dl,80.0 140.0 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM ELECTROLYTES,,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+IL-6(INTERLUEKIN-6),23.78,pg/mL,5.3-7.5 pg/mL.,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+IL-6(INTERLUEKIN-6),15.14,pg/mL,5.3-7.5 pg/mL.,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM CREATININE,0.6,mg/dL,0.84-1.25 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+eGFR,122.0,mL/min,90-120,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM ELECTROLYTES,,,,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+UREA,49.0,mg/dl,17.0 43.0 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+D DIMER,342.9,,0 - 250 ng/ml,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+D DIMER,282.8,,0 - 250 ng/ml,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+UREA,38.0,mg/dl,17.0 43.0 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM CREATININE,0.81,mg/dL,0.84-1.25 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+eGFR,108.0,mL/min,90-120,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM POTASSIUM,3.85,meq/L,3.5 - 5.0 mEq/L,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM SODIUM,137.9,meq/L,135-150 mEq/L,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CHLORIDES SERUM,100.8,meq/L,94.0 110.0 meq/l,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+RPG (RANDOM PLASMA GLUCOSE),99.0,mg/dl,80.0 140.0 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+D DIMER,193.4,,0-250 ng/ml,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+D DIMER,0.3,,< 0.50 ug FEU/mL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+CHLORIDES SERUM,104.5,meq/L,94.0 110.0 meq/l,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+UREA,27.0,mg/dl,17.0 43.0 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM CREATININE,0.68,mg/dL,0.84-1.25 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+eGFR,116.0,mL/min,90-120,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM POTASSIUM,4.58,meq/L,3.5-5.0 mEq/L,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+SERUM SODIUM,137.3,meq/L,135-150 mEq/L,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+RPG (RANDOM PLASMA GLUCOSE),103.0,mg/dl,80.0 140.0 mg/dL,Mr.NARESH KUMAR BEJJANKY,ilide.info-11-discharge-summary-pr_a8fd819c8034f2608d672bb80773b4e4.pdf
+Total Cholesterol,10.0,,,,656736796-20211010-Vijaya-Diagnostic.pdf
+Triglycerides,10.0,,,,656736796-20211010-Vijaya-Diagnostic.pdf
+HDL Cholesterol,10.0,,,,656736796-20211010-Vijaya-Diagnostic.pdf
+LDL Cholesterol,10.0,,,,656736796-20211010-Vijaya-Diagnostic.pdf
+RBC Count,6.25,,,,656736796-20211010-Vijaya-Diagnostic.pdf
+Hemoglobin,15.5,g/dL,13.0-17.0,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+RBC,4.85,mili/cu.mm,4.5 - 5.5,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+HCT,46.7,%,40 - 50,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+MCV,96.2,fL,83 - 101,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+MCH,31.9,pg,27-32,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+MCHC,33.2,g/dL,31.5-34.5,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+RDW-CV,13.9,%,11.6-14.0,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Total Leucocyte Count,6.03,10^3/μL,4 - 10,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Neutrophils,62.5,%,40-80,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Lymphocytes,24.3,%,20-40,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Monocytes,9.5,%,2-10,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Eosinophils,3.2,%,1-6,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Basophils,0.5,%,0-2,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Absolute Neutrophil Count,3.77,10^3/μL,2-7,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Absolute Lymphocyte Count,1.47,10^3/μL,1-3,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Absolute Monocyte Count,0.57,10^3/μL,0.2-1,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Absolute Eosinophil Count,0.19,10^3/μL,0.02-0.5,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Absolute Basophil Count,0.03,10^3/μL,0.02-0.1,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Platelet Count,229.0,10^3/μL,150-410,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+MPV,9.1,fL,6.5 - 12,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+PDW,13.8,fL,9-17,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Erythrocyte Sedimentation Rate,1.0,mm/hour,<10,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Plasmodium falciparum Antigen,0.0,,Negative,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Plasmodium vivax Antigen,0.0,,Negative,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+C-Reactive Protein (Quantitative),14.1,mg/L,<5.0,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Typhidot - IgM,0.0,,Negative,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Typhidot - IgG,0.0,,Negative,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Salmonella Typhi 'O',,,<1:80,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Salmonella Typhi 'H',,,<1:80,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Salmonella Paratyphi 'AH',,,<1:80,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Salmonella Paratyphi 'BH',,,<1:80,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Chikungunya IgM,0.0,,,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Dengue NS1 Antigen,0.1474,Index,<0.8,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Urine Specific gravity,1.03,,1.003 1.035,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Urine pH,6.0,,4.6 - 8.0,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Urine Glucose,0.0,,Negative,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Urine Protein,0.0,,Negative,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Urine Ketones,0.0,,Negative,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Urine Blood,0.0,,Negative,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Urine Bilirubin,0.0,,Negative,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Urine Urobilinogen,0.0,,Normal,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Urine Leucocyte Esterase,0.0,,Negative,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Urine Nitrite,0.0,,Negative,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Pus cells,2.5,/hpf,0-5,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Red Blood Cells,0.0,/hpf,0-2,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Epithelial cells,1.5,/hpf,Few,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Casts,0.0,/lpf,Nil,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Crystals,0.0,,Nil,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Yeast,0.0,,Nil,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+Bacteria,0.0,,Nil,Mr.HARSH KATARIA,ilide.info-blood-report-pr_6c268d43f162f0ae71d80dd38e6212d9.pdf
+AST (SGOT),45.0,U/L,15.00 -40.00,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+ALT (SGPT),55.0,U/L,10.00-49.00,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+AST ALT Ratio,2.5,,< 1.00,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+GGTP,75.0,U/L,0.00-73.00,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+Alkaline Phosphatase (ALP),12.0,U/L,30.00 -120.00,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+Bilirubin Total,0.25,mg/l,0.30-1.20,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+Bilirubin Direct,2.6,mg/dL,< 0.3,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+Bilirubin Indirect,1.9,mg/dL,< 1.10,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+Total Protein,11.5,g/dL,5.70-8.20,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+Albumin,4.5,g/dL,3.20-4.80,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+Globulin,7.0,g/dL,2.00-3.50,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+A: G Ratio,0.64,,0.90 -2.00,Yashvi M. Patel,dab0ecaa3094e050eefc8ec711bc4b42.jpg
+Creatinine,1.0,mg/dL,,Maria Khan,ilide.info-oncobreast-dx-blood-cancer-oxr-final-report-pr_d342ead2f462a96b805d00fda122afc5.pdf
+ASAT,8.0,U/L,,Maria Khan,ilide.info-oncobreast-dx-blood-cancer-oxr-final-report-pr_d342ead2f462a96b805d00fda122afc5.pdf
+ALAT,12.0,U/L,,Maria Khan,ilide.info-oncobreast-dx-blood-cancer-oxr-final-report-pr_d342ead2f462a96b805d00fda122afc5.pdf
+GGT,7.0,U/L,,Maria Khan,ilide.info-oncobreast-dx-blood-cancer-oxr-final-report-pr_d342ead2f462a96b805d00fda122afc5.pdf
+8-OHdG,11.1,ng/mL,,Maria Khan,ilide.info-oncobreast-dx-blood-cancer-oxr-final-report-pr_d342ead2f462a96b805d00fda122afc5.pdf
+Total Bilirubin,1.0,mg/dL,,Maria Khan,ilide.info-oncobreast-dx-blood-cancer-oxr-final-report-pr_d342ead2f462a96b805d00fda122afc5.pdf
+CA 15.3,19.7,U/mL,,Maria Khan,ilide.info-oncobreast-dx-blood-cancer-oxr-final-report-pr_d342ead2f462a96b805d00fda122afc5.pdf
+CEA,1.6,ng/mL,,Maria Khan,ilide.info-oncobreast-dx-blood-cancer-oxr-final-report-pr_d342ead2f462a96b805d00fda122afc5.pdf
+EGFR,5.0,ng/mL,,Maria Khan,ilide.info-oncobreast-dx-blood-cancer-oxr-final-report-pr_d342ead2f462a96b805d00fda122afc5.pdf
+NGAL,4.6,ng/mL,,Maria Khan,ilide.info-oncobreast-dx-blood-cancer-oxr-final-report-pr_d342ead2f462a96b805d00fda122afc5.pdf
+NSE,7.0,ng/mL,,Maria Khan,ilide.info-oncobreast-dx-blood-cancer-oxr-final-report-pr_d342ead2f462a96b805d00fda122afc5.pdf
+Total Cholesterol,2.0,,,,ilide.info-blood-test-pr_ec80bda54e669d364235fc2133cea743.pdf
+Triglycerides,150.37,mg/dL,,,ilide.info-blood-test-pr_ec80bda54e669d364235fc2133cea743.pdf
+HDL Cholesterol,150.37,mg/dL,,,ilide.info-blood-test-pr_ec80bda54e669d364235fc2133cea743.pdf
+LDL Cholesterol,105.34,mg/dL,,,ilide.info-blood-test-pr_ec80bda54e669d364235fc2133cea743.pdf
+VLDL Cholesterol,30.07,mg/dL,,,ilide.info-blood-test-pr_ec80bda54e669d364235fc2133cea743.pdf
+Hemoglobin,1.0,,,,ilide.info-blood-test-pr_ec80bda54e669d364235fc2133cea743.pdf
+RBC Count,14.1,,,,ilide.info-blood-test-pr_ec80bda54e669d364235fc2133cea743.pdf
+"TRI-IODOTHYRONINE (T3, TOTAL)",1.16,ng/mL,0.69 - 2.15 ng/mL,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+"THYROXINE (T4, TOTAL)",8.61,μg/dL,4.5 - 10.9 µg/dL,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+THYROID STIMULATING HORMONE (TSH),1.49,IU/mL,0.35-5.5 IU/mL,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+HAEMOGLOBIN,9.8,gm/dl,10.4 - 15.2 gm/dl,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+RBC,4.0,mill/cumm,3.7-5.2 mill/cumm,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+PCV,30.6,%,32 - 45%,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+MCV,70.1,fl,73.4-98.3 fl,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+MCH,22.3,pg,23.2-33.3 pg,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+MCHC,32.0,%,31 - 38%,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+R.D.W-CV,16.4,%,11.6-14,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+WBC,6100.0,cells/cu.mm,4000-10000,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+NEUTROPHILS,50.0,%,40-70%,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+LYMPHOCYTES,38.0,%,20-40%,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+MONOCYTES,8.0,%,2 - 10%,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+EOSINOPHILS,4.0,%,1 -6%,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+BASOPHILS,0.0,%,0-1 %,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+PLATELET COUNT,293000.0,,150000-410000,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+SEDIMENTATION RATE (ESR),25.0,mm/hr,0 -20 mm/hr,Mrs. YESHODA V C,ilide.info-blood-report-pr_0232c8f8a4d02903f560e23f3647a6fb.pdf
+Triglycerides,88.0,,,,ilide.info-lal-pathlabs-report-pr_1c031fc9bea03622c2cba9c2e775a252.pdf
+HDL Cholesterol,54.2,,,,ilide.info-lal-pathlabs-report-pr_1c031fc9bea03622c2cba9c2e775a252.pdf
+LDL Cholesterol,106.9,,,,ilide.info-lal-pathlabs-report-pr_1c031fc9bea03622c2cba9c2e775a252.pdf
+VLDL Cholesterol,11.9,,,,ilide.info-lal-pathlabs-report-pr_1c031fc9bea03622c2cba9c2e775a252.pdf
+Hemoglobin,10.0,,,,ilide.info-lal-pathlabs-report-pr_1c031fc9bea03622c2cba9c2e775a252.pdf
+RBC Count,5.1,,,,ilide.info-lal-pathlabs-report-pr_1c031fc9bea03622c2cba9c2e775a252.pdf
+Haemoglobin,12.4,g/dL,12.0-15.0,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+RBC Count,4.63,million/ul,3.8-4.8,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+Hematocrit (HCT),38.2,%,36.0-46.0,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+MCV,82.5,fl,83.0-101.0,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+MCH,26.8,pg,27.0-32.0,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+MCHC,32.5,g/dL,31.5-34.5,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+RDW CV,14.7,%,11.6-14.0,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+WBC Count,7140.0,uL,4000-10000,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+Neutrophils,5291.0,/uL,2000-7000,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+Lymphocytes,1328.0,/uL,1000-3000,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+Eosinophils,79.0,/uL,20-500,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+Monocytes,428.0,/uL,200-1000,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+Basophils,14.0,/uL,<120,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+Platelets,316000.0,/uL,150000-410000,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+MPV,9.4,fL,6.5-12.0,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+PDW,15.7,fL,9.6-15.2,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+Plateletcrit (PCT),0.296,%,0.19-0.39,Ms. Yashminben Pirjada,76b0c1a0771db9148effdc9cc40dbe1a.jpg
+HAEMOGLOBIN,12.9,g/dL,"Male :13.5 to 17.0
+Female :11.5 to 15.5
+Infants :14.0 to 19.0
+Children: 13.5 to 17.0",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+RBCs COUNT,4.27,Million/cm,"Male : 4.5 5.5
+Female : 3.8 4.8",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+PCV- Haematocrit,39.5,%,"Men 40
+Women: 36 - 44 %",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+TOTAL WBC COUNT,1660,cells/cumm,"4000 - 11,000 cells/cumm",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+Neutrophils,,,"Adults 50 - 70 %
+Infants 35 - 60 %",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+Lymphocytes,,,"Adults 20 - 30 %
+Infants 40 - 50 %",Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+Eosinophils,,,1 - 6%,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+Monocytes,,,2 - 4 %,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+Basophils,,,1-2 %,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+PLATELET COUNT,1.21,lakhs/Cumm,1.5 4.5 Lakhs/Cumm,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+MCV,92.5,fl,83 - 101 fl,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+MCH,30.2,pg,28 - 32,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+MCHC,32.7,%,31.5 34.5 %,Ms.SUKIRTI.K,ilide.info-testreport-1-pr_9af31be8aee17b38df943a6f5d233733.pdf
+Total Cholesterol,200.0,,,,ilide.info-keshav-kashyap-lipid-profile-pr_b0693648ab3b5be31ae36e6770ae9275.pdf
+Triglycerides,281.0,mg/dL,,,ilide.info-keshav-kashyap-lipid-profile-pr_b0693648ab3b5be31ae36e6770ae9275.pdf
+HDL Cholesterol,281.0,mg/dL,,,ilide.info-keshav-kashyap-lipid-profile-pr_b0693648ab3b5be31ae36e6770ae9275.pdf
+LDL Cholesterol,111.0,mg/dL,,,ilide.info-keshav-kashyap-lipid-profile-pr_b0693648ab3b5be31ae36e6770ae9275.pdf
+VLDL Cholesterol,56.0,mg/dL,,,ilide.info-keshav-kashyap-lipid-profile-pr_b0693648ab3b5be31ae36e6770ae9275.pdf
+Hemoglobin,15.6,g/dL,,,ilide.info-keshav-kashyap-lipid-profile-pr_b0693648ab3b5be31ae36e6770ae9275.pdf
+RBC Count,4.7,,,,ilide.info-keshav-kashyap-lipid-profile-pr_b0693648ab3b5be31ae36e6770ae9275.pdf
+ERITROCITOS,4.83,x 10^6/uL,4.00 -5.20,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+HEMOGLOBINA,14.2,g/dL,12.0-16.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+HEMATOCRITO,42.2,%,36.0 46.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+VCM,87.5,fL,80.0 100.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+HCM,29.3,pg,26.0-34.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+CHCM,33.5,g/dL,,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+ADE,12.7,%,11.5-14.5,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+VPM,7.9,fL,7.9-10.8,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+LEUCOCITOS,5.1,x 10^3/uL,4.5-11.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+SEGMENTADOS %,69.0,%,50.0-70.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+LINFOCITOS %,19.0,%,25.0-40.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+MONOCITOS %,8.0,%,4.0-12.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+EOSINÓFILOS %,3.0,%,2.0-4.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+BASÓFILOS %,1.0,%,0.0-1.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+BACILIFORMES %,0.0,%,0.0-5.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+JUVENILES %,0.0,%,0.0-1.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+MIELOCITOS %,0.0,%,0.0 1.0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+PROMIELOCITOS %,0.0,%,0-0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+BLASTOS %,0.0,%,0-0,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+V.H.S.,6.0,mm/hr,1-29,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+PLAQUETAS,209.0,x 10^3/uL,140-400,CARMEN MARÍA BESA VERGARA,15e5d4f105ad4ecfbeb570134dcd0245.jpg
+Hemoglobin,12.0,g/dL,13.00 17.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Packed Cell Volume (PCV),37.7,%,40.00 - 50.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+RBC Count,5.79,mill/mm3,4.50 -5.50,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+MCV,65.0,fL,80.00 100.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+MCH,20.7,pg,27.00 32.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+MCHC,31.9,g/dL,32.00 35.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Red Cell Distribution Width (RDW),15.9,%,11.50 - 14.50,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Total Leukocyte Count (TLC),4.2,thou/mm3,4.00 - 10.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Segmented Neutrophils,39.6,%,40.00 80.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Lymphocytes,50.3,%,20.00 40.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Monocytes,8.1,%,2.00 - 10.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Eosinophils,1.4,%,1.00 - 6.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Basophils,0.6,%,<2.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Neutrophils,1.66,thou/mm3,2.00 -7.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Lymphocytes,2.11,thou/mm3,1.00 -3.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Monocytes,0.34,thou/mm3,0.20 -1.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Eosinophils,0.06,thou/mm3,0.02 -0.50,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Basophils,0.03,thou/mm3,0.01 -0.10,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Platelet Count,245.0,thou/mm3,150.00 450.00,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+MALARIA PARASITE / BLOOD PARASITE IDENTIFICATION (Microscopy),,,,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+"ALT (SGPT), SERUM (IFCC)",127.0,U/L,<50,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Salmonella typhi O (TO),,,Non Reactive,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Salmonella typhi H (TH),,,Non Reactive,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+"Salmonella paratyphi A, H (AH)",,,Non Reactive,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+"Salmonella paratyphi B, H (BH)",,,Non Reactive,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+"BILIRUBIN, TOTAL, SERUM (DPD)",1.9,mg/dL,0.30 1.20,Mr. ANIKET MAHAJAN,ilide.info-d18240923-blood-report-pr_b363fe75dbd1632cdd0957039bae7a18.pdf
+Haemoglobin,15.2,gm/dl,13 to 18,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Total R.B.C. Count,4.69,X 10^6/μL,4.5 to 5.5,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+PCV/HCT,39.0,%,40 to 50,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+MCV,83.2,fl,83 to 99,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+MCH,32.4,pg,27 to 32,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+MCHC,39.0,g/dl,31.5 to 34.5,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+RDW,12.9,%,11.6 to 14,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Total W.B.C. Count,7300.0,per cumm,4000 to 10000,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Neutrophils,60.0,%,40 to 80,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Lymphocytes,32.0,%,20 to 40,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Monocytes,5.0,%,2 to 10,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Eosinophils,3.0,%,0 to 6,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Basophils,0.0,%,0 to 2,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Band Forms,0.0,%,O to O,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Absolute Neutrophils,4.4,X 103 / μL,2.00 to 7.00,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Absolute Lymphocyte,2.3,X 103 μL,1.00 to 3.00,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Absolute Monocytes,0.4,X 103 / μL,0.20 to 1.00,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Absolute Eosinophils,0.2,X 103 μL,0.02 to 0.50,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Absolute Basophils,0.0,X 103 / μL,0.02 to 0.10,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Platelet Count,231000.0,per cu.mm.,150000 to 450000,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+MPV,11.7,fl,7 to 13,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+ESR,6.0,"mm at the
+end of 1 hr",0 to 15,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Serum. CHOLESTEROL,168.0,mg/dl,"Desirable: < 250
+Borderline-High 250-300
+High>/= 340",Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Serum. TRIGLYCERIDE,133.0,mg/dl,"Normal: <200
+Borderline-High: 200 - 250
+High: 200 - 499
+Very High>/=500",Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+S.HDL CHOLESTEROL,37.0,mg/dl,"Desirable: > 60
+Borderline : 30 - 60
+Low: < 30",Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+LDL CHOLESTEROL,104.4,mg/dl,"Optimal: > 100
+Near Optimal : 100 - 129
+BorderlineHigh 130 - 159
+High 160-189
+Very High>/=190",Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+NON HDL CHOLESTEROL,131.0,mg/dl,"Desriable: below 130
+Borderline high: 130 - 159
+High: 160 189
+Very high: above 190",Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+VLDL CHOLESTEROL,26.6,mg/dl,0 to 40,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+CHOL/HDL CHOL(Ratio),4.5,,0 to 5.5,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+LDL CHOL/HDL RATIO,2.8,,0 to 3.5,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+S.Total Billirubin,0.59,mg/dl,0.1 to 1,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+S.Direct Billirubin,0.25,mg/dl,0 to 0.4,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+S.Indirect Billirubin,0.34,mg/dl,0.1 to 0.8,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+SGOT,26.0,U/L,0 to 55,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+SGPT,30.0,U/L,0 to 55,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+S.Alkaline Phosphatase,132.0,U/L,to 300,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+S. Total Protien,6.4,g/dl,6 to 8,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+S. Albumin,3.6,g/dl,2 to 5,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+S. Globulin,2.8,g/dl,2 to 4,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+A/G Ratio,1.3,,0.9 to 2,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Gamma GT,24.0,IU/L,5 to 45,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Fasting Plasma Glucose,76.0,mg/dl,70 to 110,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Fasting Urine Glucose,,,,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Fasting Urine Ketone,,,,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+HbA1c,4.89,%,4.6 To 6.2,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Mean Blood Glucose (M. B. G. ),70.0,mg%,96.8 - 140,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+BUN,12.0,mg/dl,5 to 20,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+S. Creatinine,0.78,mg/dl,0.5 to 1.5,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+HIV-1,,,NON REACTIVE,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+HIV-2,,,NON REACTIVE,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+HEPATITIS B SURFACE ANTIGEN (HBsAg),,,NON REACTIVE,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+URINE COTININE,,,NEGATIVE,Mr. VISHAL M JAIN,ilide.info-blood-urine-test-pr_c972f4c699f120173fa09da0dab63c42.pdf
+Total Cholesterol,0.76,,,,ilide.info-blood-report-pr_490dfed05bb628bddef820c299df9afe.pdf
+Triglycerides,5.0,,,,ilide.info-blood-report-pr_490dfed05bb628bddef820c299df9afe.pdf
+HDL Cholesterol,0.76,,,,ilide.info-blood-report-pr_490dfed05bb628bddef820c299df9afe.pdf
+LDL Cholesterol,1.77,,,,ilide.info-blood-report-pr_490dfed05bb628bddef820c299df9afe.pdf
+Hemoglobin,5.2,,,,ilide.info-blood-report-pr_490dfed05bb628bddef820c299df9afe.pdf
+Hemoglobin (Hb),15.5,g/dL,13.0-17.0,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Erythrocyte Count (RBC Count),5.93,mil/μL,4.5-5.5,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Packed Cell Volume (Hematocrit),46.8,%,40-50,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Platelet Count,2.61,lakh/Cumm,1.5-4.0,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+MCV,84.3,fl,83-101,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+MCH,27.1,pg,27-32,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+MCHC,33.1,g/dL,31.5-34.5,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+RDW - CV,12.3,%,11.5-14.5,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Total Leucocyte Count (WBC),7790.0,cells/Cumm,4000-11000,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Neutrophils,49.0,%,40-75,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Lymphocytes,40.0,%,20-40,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Eosinophils,4.0,%,0-6,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Monocytes,7.0,%,2-10,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Basophils,0.0,%,0-1,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Bilirubin Total,0.3,mg/dL,0-1.0,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Bilirubin Direct,0.1,mg/dL,0-0.3,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Bilirubin Indirect,0.2,mg/dL,0-1.0,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Alkaline Phosphatase (ALP),99.0,U/L,50-136,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Alanine Transaminase (ALT/SGPT),42.2,U/L,Upto 41,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Aspartate Aminotransferase (AST/SGOT),32.7,U/L,Upto 40,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Y- Glutamyl Transferase (GGT),8.3,U/L,8-61,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Protein Total,7.3,g/dL,6.4-8.3,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Albumin,4.68,g/dL,3.5-5.4,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Globulin,2.62,g/dl,2.5-3.5,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Albumin/Globulin,1.79,Ratio,1.0-2.1,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Creatinine,1.3,mg/dL,0.7-1.4,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Blood Urea,41.2,mg/dL,Upto 50,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Triiodothyronine Total (TT3),90.19,ng/dL,60-181,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Thyroxine Total (TT4),5.82,ug/dL,4.6-12.5,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Thyroid Stimulating Hormone (TSH),3.78,ulU/mL,0.35-5.50,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Testosterone - Total,662.7,ng/dL,249-1080,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Estradiol (E2),26.52,pg/mL,<52,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Prolactin (PRL),16.15,ng/mL,2.1-17.7,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Luteinising Hormone (LH),0.1,mIU/mL,1.5-9.3,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Follicle Stimulating Hormone (FSH),0.3,mIU/mL,1.4-15.4,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Vitamin B12,529.6,pg/mL,200-911,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+25-Hydroxy Vitamin D Total (D2 & D3),19.51,ng/mL,20-51,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Cholesterol - Total,125.0,mg/dL,"<200Desirable
+200-239 Borderline risk
+>240 High risk",MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Cholesterol - HDL,49.0,mg/dL,"< 40 : Low
+40-60 Optimal
+> 60",MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Cholesterol - LDL,53.2,mg/dL,"< 100
+100-129 Desirable
+130-159 Borderline-High
+160-189 High
+> 190 Very High",MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Cholesterol VLDL,22.8,mg/dL,7-40,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Triglycerides,114.0,mg/dL,"< 150 Normal
+150-199 Borderline-High
+200-499 :High
+> 500 Very High",MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Total cholesterol/HDL,2.55,Ratio,0-5.0,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+LDL/HDL,1.09,Ratio,0-3.5,MR. FAIZAN PATHAN,ilide.info-blood-test-report-pr_9032432fc3221d0e96f825c888a00603.pdf
+Hemoglobin,12.0,g/dL,13.00 17.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Packed Cell Volume (PCV),37.7,%,40.00 - 50.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+RBC Count,5.79,mill/mm3,4.50 -5.50,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+MCV,65.0,fL,80.00 100.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+MCH,20.7,pg,27.00 32.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+MCHC,31.9,g/dL,32.00 35.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Red Cell Distribution Width (RDW),15.9,%,11.50 - 14.50,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Total Leukocyte Count (TLC),4.2,thou/mm3,4.00 - 10.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Segmented Neutrophils,39.6,%,40.00 80.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Lymphocytes,50.3,%,20.00 40.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Monocytes,8.1,%,2.00 - 10.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Eosinophils,1.4,%,1.00 - 6.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Basophils,0.6,%,<2.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Neutrophils,1.66,thou/mm3,2.00 -7.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Lymphocytes,2.11,thou/mm3,1.00 -3.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Monocytes,0.34,thou/mm3,0.20 -1.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Eosinophils,0.06,thou/mm3,0.02 -0.50,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Basophils,0.03,thou/mm3,0.01 -0.10,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Platelet Count,245.0,thou/mm3,150.00 450.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+MALARIA PARASITE / BLOOD PARASITE IDENTIFICATION (Microscopy),,,,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+"ALT (SGPT), SERUM (IFCC)",127.0,U/L,<50,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+"WIDAL TEST, SERUM (Slide Agglutination) Salmonella typhi O (TO)",,,Non Reactive,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Salmonella typhi H (TH),,,Non Reactive,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+"Salmonella paratyphi A, H (AH)",,,Non Reactive,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+"Salmonella paratyphi B, H (BH)",,,Non Reactive,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+"BILIRUBIN, TOTAL, SERUM (DPD)",1.9,mg/dL,0.30 1.20,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_8bb29a954804e56fdb8d6d3c5908235b.pdf
+Hemoglobin,12.0,g/dL,13.00 17.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Packed Cell Volume (PCV),37.7,%,40.00 - 50.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+RBC Count,5.79,mill/mm3,4.50 -5.50,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+MCV,65.0,fL,80.00 100.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+MCH,20.7,pg,27.00 32.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+MCHC,31.9,g/dL,32.00 35.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Red Cell Distribution Width (RDW),15.9,%,11.50 - 14.50,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Total Leukocyte Count (TLC),4.2,thou/mm3,4.00 - 10.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Segmented Neutrophils,39.6,%,40.00 80.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Lymphocytes,50.3,%,20.00 40.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Monocytes,8.1,%,2.00 - 10.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Eosinophils,1.4,%,1.00 - 6.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Basophils,0.6,%,<2.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Neutrophils,1.66,thou/mm3,2.00 -7.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Lymphocytes,2.11,thou/mm3,1.00 -3.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Monocytes,0.34,thou/mm3,0.20 -1.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Eosinophils,0.06,thou/mm3,0.02 -0.50,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Basophils,0.03,thou/mm3,0.01 -0.10,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Platelet Count,245.0,thou/mm3,150.00 450.00,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+MALARIA PARASITE / BLOOD PARASITE IDENTIFICATION (Microscopy),,,,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+"ALT (SGPT), SERUM (IFCC)",127.0,U/L,<50,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+"WIDAL TEST, SERUM (Slide Agglutination) Salmonella typhi O (TO)",,,Non Reactive,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Salmonella typhi H (TH),,,Non Reactive,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+"Salmonella paratyphi A, H (AH)",,,Non Reactive,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+"Salmonella paratyphi B, H (BH)",,,Non Reactive,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+"BILIRUBIN, TOTAL, SERUM (DPD)",1.9,mg/dL,0.30 1.20,Mr. NEERAJ OJHA,ilide.info-s47-radha-diagnostics-gtroad-jhunsi-awas-vikas-colony-yojna-2-nr-police--pr_a47ba454e3c90773de31249edad5f6d5.pdf
+Total Cholesterol,200.0,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_4546c09626534389bb97fca7eea8e907.pdf
+Triglycerides,2014.0,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_4546c09626534389bb97fca7eea8e907.pdf
+HDL Cholesterol,2014.0,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_4546c09626534389bb97fca7eea8e907.pdf
+LDL Cholesterol,2014.0,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_4546c09626534389bb97fca7eea8e907.pdf
+VLDL Cholesterol,2014.0,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_4546c09626534389bb97fca7eea8e907.pdf
+Hemoglobin,12.8,g/dL,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_4546c09626534389bb97fca7eea8e907.pdf
+RBC Count,12.8,,,,ilide.info-mr-arvind-yadavx27s-lipid-profile-liver-panel-and-kidney-panel-test-result-pr_4546c09626534389bb97fca7eea8e907.pdf
+HAEMOGLOBIN,11.7,g/dl,12.0 - 15.0,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+PACKED CELL VOLUME (PCV),37.4,,36 - 46,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+R.B.C. Count,4.5,x10^12/1,3.8 - 4.8,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+MCV,83.1,fL,83 - 101,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+MCH,26.0,pg,27 - 32,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+MCHC,31.3,g/dl,31.5 - 34.5,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+RDW,20.4,,11.60 - 14.0,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+NRBC,0.0,,,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+TOTAL LEUCOCYTE COUNT,8.1,x10^9/1,4.0 - 10.0,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+NEUTROPHILS,44.9,,40 - 80,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+LYMPHOCYTES,39.8,,20 - 40,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+MONOCYTES,5.8,,2 - 10,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+EOSINOPHILS,8.9,,1 - 6,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+BASOPHILS,0.6,,0 - 1,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+NEUTROPHILS,3.64,x10^9/1,2 - 7,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+LYMPHOCYTE,3.22,x10^9/1,1.0 - 3.0,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+MONOCYTE,0.47,x10^9/1,0.2 - 0.5,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+EOSINOPHILS,0.72,x10^9/1,0.02 - 0.1,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+BASOPHIL,0.05,x10^9/1,0.02 - 0.1,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+PLATELET COUNT,217.0,x10^9/1,150 - 410,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+THYROID STIMULATING HORMONE (TSH),3.09,uIU/ml,0.27-5.5 μIU/ml,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+SERUM FERRITIN,13.1,ng/mL,15.0 - 200.0,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+SERUM IgE LEVELS,621.3,Iu/mL,< 100,SHIVANGI DWIVEDI,ilide.info-lab-report-ms-shivangi-dwivedi-pr_607c75885fb938aafb724519032b5200.pdf
+HEMOGLOBIN (HB),12.6,g/dL,12.0-15.0,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+RED BLOOD CELL (RBC) COUNT,4.39,mil/μL,3.80-4.80,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+WHITE BLOOD CELL (WBC) COUNT,7.41,thou/μL,4-10,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+PLATELET COUNT,240.0,thou/μL,150-410,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+HEMATOCRIT (PCV),40.3,%,36.0-46.0,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+MEAN CORPUSCULAR VOLUME (MCV),91.8,fL,83.0-101.0,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+MEAN CORPUSCULAR HEMOGLOBIN (MCH),28.7,pg,27.0-32.0,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+MEAN CORPUSCULAR HEMOGLOBIN CONCENTRATION(MCHC),31.3,g/dL,31.5-34.5,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+RED CELL DISTRIBUTION WIDTH (RDW),13.9,%,11.6-14.0,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+MENTZER INDEX,20.9,Index,"> 13 Normal < 13 s/o Thalassaemia,",DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+MEAN PLATELET VOLUME (MPV),11.4,fL,6.80-10.90,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+NEUTROPHILS,51.0,%,40-80,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+LYMPHOCYTES,40.0,%,20-40,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+MONOCYTES,7.0,%,2-10,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+EOSINOPHILS,2.0,%,1-6,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+BASOPHILS,0.0,%,< 1-2,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+ABSOLUTE NEUTROPHIL COUNT,3.78,thou/μL,2.0-7.0,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+ABSOLUTE LYMPHOCYTE COUNT,2.96,thou/μL,1.0-3.0,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+ABSOLUTE MONOCYTE COUNT,0.52,thou/μL,0.20-1.0,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+ABSOLUTE EOSINOPHIL COUNT,0.15,thou/μL,0.02-0.50,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+ABSOLUTE BASOPHIL COUNT,0.0,thou/μL,0.02-0.10,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+NEUTROPHIL LYMPHOCYTE RATIO (NLR),1.3,RATIO,0.78-3.53,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+"ALANINE AMINOTRANSFERASE (ALT/SGPT), SERUM",28.0,U/L,10-40,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+"ASPARTATE AMINOTRANSFERASE (AST/SGOT), SERUM",26.0,U/L,15-45,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+"BILIRUBIN, TOTAL, SERUM",0.51,mg/dL,0-1.0,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+BLOOD UREA NITROGEN,11.0,mg/dL,8-21,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+CREATININE,0.68,mg/dL,0.4-1.2,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+BUN/CREAT RATIO,16.18,,5-15,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+URIC ACID,5.0,mg/dL,3.0-5.9,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+TOTAL PROTEIN,7.0,g/dL,6.3-8.6,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+ALBUMIN,4.3,g/dL,3.7-5.6,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+GLOBULIN,2.7,g/dL,2.0-3.5,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+CALCIUM,9.0,mg/dL,8.1-10.4,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+"SODIUM, SERUM",140.0,mmol/L,135-145,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+"POTASSIUM, SERUM",3.35,mmol/L,3.9-5.3,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+"CHLORIDE, SERUM",103.0,mmol/L,96-109,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+"GLUCOSE FASTING, FLUORIDE PLASMA",102.0,mg/dL,Normal 100 Impaired fasting glucose: 100 to 125 Diabetes mellitus >= 126 (on more than one occassion) (American diabetes association guidelines 2017),DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+"PHOSPHORUS, SERUM",4.0,mg/dL,2.8-4.5,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+"ALKALINE PHOSPHATASE, SERUM",85.0,IU/L,40-129,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+"CHOLESTEROL, TOTAL",223.0,mg/dL,Desirable: < 200 Borderline 200-239,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+TRIGLYCERIDES,206.0,mg/dL,< 160 : > 240,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+HDL CHOLESTEROL,34.0,mg/dL,Adult levels: Optimal 100 Near optimal/above optimal: 100-129 Borderline high 130-159 High 160-189 : Very high = 190,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+CHOLESTEROL LDL,148.0,mg/dL,LOW HIGH > 60,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+NON HDL CHOLESTEROL,189.0,mg/dL,Desirable < 130 Above Desirable: 130 -159 Borderline High: 160 - 189 High 190 219 Very high>/ = 220,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+VERY LOW DENSITY LIPOPROTEIN,41.2,mg/dL,< OR = 30.0,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+CHOL/HDL RATIO,6.6,,Low Risk 3.3-4.4 Average Risk: 4.5 - 7.0 Moderate Risk: 7.1 - 11.0 High Risk > 11.0,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+LDL/HDL RATIO,4.4,,2.5-3.5,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+TSH (ULTRASENSITIVE),2.86,μIU/mL,Euthyroid 0.35 - 4.94 Hypothyroid > 4.94. Hyperthyroid: < 0.35 Pregnant Women (As per American Thyroid Association) 1st Trimester 0.100 - 2.500 2nd Trimester 0.200 - 3.000 3rd Trimester 0.300 - 3.000,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+VITAMIN B12,301.0,pg/mL,187-883,DEVI BHARATHAN,ilide.info-medical-test-report-pr_31804379161598de2a8c7aef77a9feb8.pdf
+Hemoglobin,15.0,g/dL,13.00 17.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Packed Cell Volume (PCV),40.1,%,40.00 50.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+RBC Count,4.5,mill/mm3,4.50 -5.50,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+MCV,83.3,fL,83.00 101.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+MCH,31.2,pg,27.00 32.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+MCHC,47.5,g/dL,31.50 34.50,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Red Cell Distribution Width (RDW),13.4,%,11.60 14.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Total Leukocyte Count (TLC),6.03,thou/mm3,4.00 10.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Segmented Neutrophils,64.1,%,40.00 80.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Lymphocytes,30.6,%,20.00 40.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Monocytes,3.0,%,2.00 -10.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Eosinophils,2.3,%,1.00 -6.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Basophils,0.0,%,<2.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Neutrophils,3.87,thou/mm3,2.00 -7.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Lymphocytes,1.85,thou/mm3,1.00 3.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Monocytes,,thou/mm3,0.20 1.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Eosinophils,0.14,thou/mm3,0.02 0.50,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Basophils,0.0,thou/mm3,0.02 -0.10,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Platelet Count,92.0,thou/mm3,150.00 410.00,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Mean Platelet Volume,11.3,fL,6.5-12.0,Mr. SHIVANSH SONI,ilide.info-cbc-lalpath-pr_ed43a0b419e257198a9b82a136e317ed.pdf
+Triglycerides,65.0,mg/dL,,,ilide.info-erythrocytes-reference-dr-naini-setalvad-abhishek-khemka-vid-106191000857-pr_2d438d7034bec0b05b42c2bf8b1ddcb3.pdf
+HDL Cholesterol,39.0,mg/dL,,,ilide.info-erythrocytes-reference-dr-naini-setalvad-abhishek-khemka-vid-106191000857-pr_2d438d7034bec0b05b42c2bf8b1ddcb3.pdf
+LDL Cholesterol,88.0,mg/dL,,,ilide.info-erythrocytes-reference-dr-naini-setalvad-abhishek-khemka-vid-106191000857-pr_2d438d7034bec0b05b42c2bf8b1ddcb3.pdf
+VLDL Cholesterol,13.0,,,,ilide.info-erythrocytes-reference-dr-naini-setalvad-abhishek-khemka-vid-106191000857-pr_2d438d7034bec0b05b42c2bf8b1ddcb3.pdf
+Hemoglobin,3.0,,,,ilide.info-erythrocytes-reference-dr-naini-setalvad-abhishek-khemka-vid-106191000857-pr_2d438d7034bec0b05b42c2bf8b1ddcb3.pdf
