@@ -1,5 +1,11 @@
-# Settings for Regex Parser (The Guard)
-# NOTE: Yeh patterns sirf example hain, hum inhein baad mein improve kar sakte hain.
+# ==============================================================================
+# Aarogya-AI: Central Configuration File (v1.1)
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Station 2: The Guard - Regex Parser Configuration
+# ------------------------------------------------------------------------------
+# These are simple, fast patterns for common, well-structured reports.
 regex_patterns:
   Total Cholesterol: \b(Total\s*Cholesterol)\b.*?(\d+\.?\d*)\s*(mg/dL)?
   Triglycerides: \b(Triglycerides)\b.*?(\d+\.?\d*)\s*(mg/dL)?
@@ -8,42 +14,64 @@ regex_patterns:
   VLDL Cholesterol: \b(VLDL\s*Cholesterol)\b.*?(\d+\.?\d*)\s*(mg/dL)?
   Hemoglobin: \b(Hemoglobin)\b.*?(\d+\.?\d*)\s*(g/dL)?
   RBC Count: \b(RBC\s*Count)\b.*?(\d+\.?\d*)\s*(M/uL)?
-  # Hum yahan aur bhi tests add kar sakte hain
+  Platelet Count: \b(Platelet\s*Count)\b.*?(\d+\.?\d*)\s*(\/cumm)?
 
-# Settings for AI Parser (The Commando)
+# ------------------------------------------------------------------------------
+# Station 2 & 4: The Commando & The Voice - AI Parser & Summarizer Configuration
+# ------------------------------------------------------------------------------
 llm_parser_config:
   provider: "google_gemini"
   model_name: "gemini-1.5-flash"
+  
+  # This is a highly-engineered prompt, instructing the AI on its dual roles.
   system_prompt: >
-    You are 'Aarogya-AI', a compassionate medical report summarizer.
-    Your role is to translate a list of medical test results into a simple, easy-to-understand summary for a patient.
+    You are 'Aarogya-AI', an expert AI system with two primary roles: a data parser and a medical report summarizer.
+    
+    ### ROLE 1: DATA PARSER ###
+    Your first and most critical task is to extract structured data from the provided medical report text.
+    
+    **CRITICAL PARSING INSTRUCTIONS:**
+    1.  **Output Format:** The output MUST be a valid JSON object. Do not add any text, markdown, or comments before or after the JSON.
+    2.  **JSON Schema:** The JSON object must have two top-level keys: `patient_details` (an object) and `test_results` (an array of objects).
+    3.  **Data Extraction:**
+        -   For `patient_details`, find `name`, `age`, and `sex`. If any are missing, use `null`.
+        -   For each item in `test_results`, you MUST extract `test_name` and `result`. The `unit` and `reference_range` are optional; use `null` if they are not present.
+    4.  **Resilience:** Medical reports are messy. Do your absolute best to find and structure at least one valid test result. It is always better to return a partial list of results than an empty `test_results` array. If you cannot find a clear test name, use the most logical name you can infer from the text.
 
-    **CRITICAL INSTRUCTIONS:**
-    1.  **DO NOT** output JSON.
-    2.  **DO NOT** describe the structure of the data (e.g., "patient_details", "test_results").
-    3.  **DO** write a friendly, narrative summary in clear paragraphs and bullet points.
-    4.  **ALWAYS** start with a general overview and end with the mandatory disclaimer.
-    5.  Explain what key tests measure in simple terms.
-    6.  Focus on the provided data only. Do not give any medical advice.
+    ### ROLE 2: PATIENT SUMMARY ###
+    After parsing, you will be called again with the structured data to generate a patient-friendly summary.
+    
+    **CRITICAL SUMMARY INSTRUCTIONS:**
+    1.  **Tone:** Be reassuring, positive, and clear. Avoid alarming language.
+    2.  **Content:** Explain what key tests measure in simple terms. Focus only on the provided data. DO NOT provide any medical advice or diagnosis.
+    3.  **Format:** Use clear paragraphs and bullet points.
+    4.  **Disclaimer:** ALWAYS end the summary with the mandatory disclaimer:
+        "**Disclaimer:** This is an AI-generated summary and not a substitute for professional medical advice. Please consult with your doctor to discuss your results in detail."
 
-    **Example Input You Will Receive:**
-    Patient Name: John Doe
-    Key Test Results:
-    - Hemoglobin: 15.0 g/dL (Normal: 13.0-17.0)
-    - Total Cholesterol: 250.0 mg/dL (Normal: <200)
-
-    **Example Summary You Should Generate:**
-    "Hello John Doe,
-    Here is a simple summary of your recent health report. Overall, most of your results are within the normal range.
-
-    Here are a few key points:
-    *   **Hemoglobin:** Your level is normal. This test measures the oxygen-carrying capacity of your blood.
-    *   **Total Cholesterol:** Your level of 250.0 mg/dL is higher than the normal range. Cholesterol is a type of fat in your blood.
-
-    **Disclaimer:** This is an AI-generated summary and not a substitute for professional medical advice. Please consult with your doctor to discuss your results in detail."
-
-
-# Settings for Hybrid Logic
+# ------------------------------------------------------------------------------
+# Station 3: The Brain - Fraud Detection Configuration
+# ------------------------------------------------------------------------------
 parser_config:
-  # Agar Regex parser is number se kam test nikal paya, to hum Gemini use karenge
+  # If the Regex parser finds fewer than this many tests, we escalate to the Gemini AI.
   gemini_fallback_threshold: 5
+
+plausibility_rules:
+  # Hematology
+  "Hemoglobin":           {"min": 5.0, "max": 25.0}
+  "Platelet Count":       {"min": 10000, "max": 1000000}
+  "RBC Count":            {"min": 1.0, "max": 10.0}
+  "WBC Count":            {"min": 500, "max": 50000}
+  
+  # Lipid Profile
+  "Total Cholesterol":    {"min": 50, "max": 500}
+  "Triglycerides":        {"min": 30, "max": 1000}
+  "HDL Cholesterol":      {"min": 10, "max": 150}
+  "LDL Cholesterol":      {"min": 20, "max": 400}
+  
+  # Liver Function
+  "AST (SGOT)":           {"min": 5, "max": 500}
+  "ALT (SGPT)":           {"min": 5, "max": 500}
+  
+  # Kidney Function
+  "Creatinine":           {"min": 0.2, "max": 15.0}
+  "Urea":                 {"min": 5, "max": 200}

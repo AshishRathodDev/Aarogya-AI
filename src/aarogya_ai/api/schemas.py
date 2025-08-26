@@ -1,12 +1,3 @@
-
-"""
-Pydantic Models for Aarogya-AI API
-
-This module defines the data structures (schemas) for API request and response bodies.
-Using these models ensures that our API is self-documenting, strongly-typed,
-and provides clear validation errors.
-"""
-
 from pydantic import BaseModel, Field
 from typing import List, Optional, Any
 
@@ -32,15 +23,27 @@ class StructuredData(BaseModel):
     patient_details: PatientDetails
     test_results: List[TestResult]
 
+# --- [FIX] Moved AnomalyReport definition BEFORE it is used ---
+# In src/api/schemas.py (REPLACE AnomalyReport)
+
+class AnomalyReport(BaseModel):
+    """Defines the structure for a single flagged anomaly with explainability."""
+    flag_type: str = Field(..., description="Type of flag (Plausibility or Statistical).", example="Statistical")
+    test_name: str = Field(..., description="The name of the flagged test.")
+    result: Any = Field(..., description="The anomalous result value.")
+    reason: str = Field(..., description="The high-level reason the result was flagged.")
+    details: Optional[str] = Field(None, description="Explainability details (e.g., Plausible Range or Anomaly Score).")
+
 class AnalysisPayload(BaseModel):
     """The main analysis payload containing all processed information."""
     structured_data: StructuredData
     summary: str = Field(..., description="AI-generated patient-friendly summary.")
-    # Future enhancement: anomaly_report: Optional[dict] = None
+    anomaly_report: List[AnomalyReport] = Field([], description="A list of any detected anomalies or potential fraud flags.")
 
 class AnalysisResponse(BaseModel):
     """The final, top-level response model for the /process_report endpoint."""
     filename: str = Field(..., description="Name of the processed file.", example="report.pdf")
     analysis: AnalysisPayload
+    
     
     
