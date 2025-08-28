@@ -1,9 +1,6 @@
 from pydantic import BaseModel, Field
 from typing import List, Optional, Any
 
-# ==============================================================================
-# API Schemas (The Rulebook)
-# ==============================================================================
 
 class TestResult(BaseModel):
     """Defines the structure for a single medical test result."""

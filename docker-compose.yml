@@ -1,5 +1,7 @@
-# docker-compose.yml (Final)
+version: "3.9"
+
 services:
+  # --- FastAPI Backend Service ---
   api:
     build:
       context: .
@@ -8,17 +10,27 @@ services:
     volumes:
       - ./src/aarogya_ai:/app/aarogya_ai
       - ./params.yaml:/app/params.yaml
+      - ./crack-decorator-468911-s1-5ab46e3aea4b.json:/app/crack-decorator-468911-s1-5ab46e3aea4b.json
     ports:
       - "8000:8000"
     networks:
       - aarogya-net
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/docs || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  # --- Streamlit Dashboard Service ---
   dashboard:
     build:
       context: .
       dockerfile: Dockerfile.dashboard
     container_name: aarogya_dashboard
     volumes:
-      - ./src/aarogya_ai/dashboard.py:/app/src/aarogya_ai/dashboard.py
+      - ./dashboard.py:/app/dashboard.py
     ports:
       - "8501:8501"
     environment:
@@ -26,12 +38,11 @@ services:
       - API_PORT=8000
     networks:
       - aarogya-net
+    restart: unless-stopped
     depends_on:
-      - api
+      api:
+        condition: service_healthy
+
 networks:
   aarogya-net:
     driver: bridge
-
-
-
-    

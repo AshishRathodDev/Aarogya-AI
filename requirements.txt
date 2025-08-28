@@ -1,4 +1,4 @@
-# requirements.txt (Definitive Production Dependencies)
+# requirements.txt (Definitive)
 fastapi
 uvicorn[standard]
 gunicorn
@@ -11,8 +11,5 @@ google-generativeai
 google-cloud-vision
 PyMuPDF
 PyYAML
-python-dotenv
 pydantic
-pydantic-settings
-tqdm
 

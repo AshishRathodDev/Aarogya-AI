@@ -1,5 +1,3 @@
-# src/data_processing/pipeline.py
-
 import os
 import io
 import fitz  # PyMuPDF

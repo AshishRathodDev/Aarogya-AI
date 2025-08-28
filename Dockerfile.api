@@ -1,25 +1,21 @@
-# Dockerfile.api (vFINAL - Uvicorn Direct Method)
-
 FROM python:3.11-slim
 
 WORKDIR /app
 
+# Copy and install dependencies
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy our application source code
+# Copy application code
 COPY src/aarogya_ai ./aarogya_ai
 COPY params.yaml .
 COPY crack-decorator-468911-s1-5ab46e3aea4b.json .
 
-EXPOSE 8000
+# Set PYTHONPATH for proper imports
+ENV PYTHONPATH=/app
 
-# --- [CRITICAL CHANGE] ---
-# We are replacing the complex Gunicorn command with a direct Uvicorn command,
-# which is simpler and less prone to pathing errors.
-# The host '0.0.0.0' is essential for it to be accessible from other containers.
-CMD ["gunicorn", "-w", "4", "-k", "uvicorn.workers.UvicornWorker", "--chdir", "src", "aarogya_ai.api.main:app", "--bind", "0.0.0.0:8000"]
+# Expose port (Cloud Run will override with PORT env var)
+EXPOSE 8080
 
-
-
-
+# Use JSON format for CMD to prevent signal handling issues
+CMD ["sh", "-c", "exec gunicorn -w 2 -k uvicorn.workers.UvicornWorker aarogya_ai.api.main:app --bind 0.0.0.0:${PORT:-8080} --timeout 0 --preload"]

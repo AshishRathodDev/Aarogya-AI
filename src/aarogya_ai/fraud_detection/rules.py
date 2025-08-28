@@ -1,5 +1,3 @@
-# src/fraud_detection/rules.py
-
 """
 Rule-based anomaly detection for Aarogya-AI.
 This module contains functions for the "Sentry" - our first level of fraud detection.

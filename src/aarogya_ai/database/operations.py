@@ -1,5 +1,3 @@
-# src/aarogya_ai/database/operations.py
-
 import sqlite3
 import pandas as pd
 import logging

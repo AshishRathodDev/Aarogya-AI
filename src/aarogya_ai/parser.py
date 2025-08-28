@@ -5,13 +5,13 @@ from abc import ABC, abstractmethod
 import google.generativeai as genai
 from typing import Dict, Any
 
-# Ek blueprint jo batata hai ki har parser kaisa dikhega
+
 class BaseParser(ABC):
     @abstractmethod
     def parse(self, text: str) -> dict:
         pass
 
-# Hathiyaar #1: Regex Guard
+
 class RegexParser(BaseParser):
     def __init__(self, patterns: dict):
         self.patterns = patterns
@@ -36,7 +36,7 @@ class RegexParser(BaseParser):
         logging.info(f"RegexParser found {len(extracted_data['test_results'])} test results.")
         return extracted_data
 
-# Hathiyaar #2: AI Commando
+
 class GeminiParser(BaseParser):
     def __init__(self, config: Dict[str, Any], max_retries: int = 2):
         self.model_name = config['model_name']
