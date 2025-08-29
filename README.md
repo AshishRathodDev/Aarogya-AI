@@ -198,23 +198,16 @@ print(f"Tests: {len(analysis['analysis']['structured_data']['test_results'])}")
   }
 }
 ```
----
-
-## Screenshots
-
-### Dashboard UI  
+### Dashboard UI
 Upload medical reports and view AI-powered analysis in a sleek interface.
 
-![Dashboard](screenshots/dashboard_demo.png)
+![Dashboard Screenshot](screenshots/dashboard_demo.png)
 
----
-
-### API Documentation  
+### API Documentation
 Interactive Swagger UI showing all available endpoints, request/response formats.
 
-![API Documentation](screenshots/api_demo.png)
+![API Screenshot](screenshots/api_demo.png)
 
----
 
 ## 🔧 **Development**
 
